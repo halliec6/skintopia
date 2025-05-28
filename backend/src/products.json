@@ -1,0 +1,5906 @@
+[
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Blueberry Bounce Gentle Cleanser"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "The Cult Classic Purifying Face Cleanser"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Fresh Starters Superfood Cleanser Home & Away Set"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Cream Cleansing Gel with TFC8&reg; Gentle Cleanser"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Plantscription&trade; Anti-Aging Cleanser"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Milky Oil Dual-Phase Waterproof Makeup Remover"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Milky Mushroom Gentle Cleansing Oil Makeup Remover"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Take The Day Off\u2122 Charcoal Cleansing Balm Makeup Remover"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Mini Acne Solutions&trade; Cleansing Foam"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Take The Day Off\u2122 Facial Cleansing Mousse"
+  },
+  {
+    "brand_name": "Then I Met You",
+    "product_name": "The Giving Essence Brightening Treatment with Niacinamide"
+  },
+  {
+    "brand_name": "Tower 28 Beauty",
+    "product_name": "Jumbo SOS Daily Rescue Facial Spray Refill with Hypochlorous Acid"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Facial Spray with Aloe, Cucumber and Green Tea"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Rare Earth Deep Pore Minimizing Cleansing Clay Face Mask"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "Brightening Facial Treatment Sheet Mask Twin Pack"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Wild Huckleberry Brightening Peel Mask for Sensitive Skin"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Wild Huckleberry 8-Acid Polishing Peel Mask"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Rapid Relief Acne Sulfur Clay Mask with Salicylic Acid"
+  },
+  {
+    "brand_name": "belif",
+    "product_name": "Aqua Bomb Sleeping Mask"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Brightening Mask with Vitamin C"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "24K Gold Mask Pure Luxury Lift & Firm"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "All About Clean\u2122 2-in-1 Charcoal Face Mask + Scrub"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "GF 15% Serum for Visible Skin Repair and Wrinkles"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Honey Glow 17% AHA + BHA Resurfacing Acid Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Soothing & Barrier Support Serum"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "C15 Super Booster for Brightening Dullness & Uneven Tone"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Pure High-Potency 9.8% Glycolic Acid Serum"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Ectoin Hydro-Barrier Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Lactic Acid 10% + HA 2% Exfoliating Serum"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Itty Bitty Midi Committee Serum Trio"
+  },
+  {
+    "brand_name": "Tower 28 Beauty",
+    "product_name": "SOS Intensive Redness Relief Serum with Hypochlorous Acid"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Banana Bright 15% Vitamin C Dark Spot Serum"
+  },
+  {
+    "brand_name": "Saint Jane Beauty",
+    "product_name": "Star Flower Hydration Serum with Niacinamide and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "MILK MAKEUP",
+    "product_name": "Watermelon Jelly Glow Brightening Serum Stick with Peptides"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Collagen Booster Firming Peptide Serum"
+  },
+  {
+    "brand_name": "The Nue Co.",
+    "product_name": "Skin Filter Daily Brightening Phyto-Retinol + AHA Serum"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "CLOUD JELLY Plumping Hydration Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Lactic Acid 5% + HA"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Instant FIRMx\u00ae Glow-Filter Priming Serum"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Dewtopia 20% PHA/AHA Retexturizing Night Serum"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Mini BioLumin-C Vitamin C Serum"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Instant De-Puff Eye Renewal Serum"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Capture Le S\u00e9rum"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Retinol Night Serum"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Acne Solutions Acne + Line Correcting Serum"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "Barrier+ Triple Lipid-Hyaluronate Serum"
+  },
+  {
+    "brand_name": "GUERLAIN",
+    "product_name": "Midnight Secret Late Night Recovery Treatment Anti-Fatigue Serum"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "U.F.O. Salicylic Acid BHA Acne Treatment Face Oil"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Smart Clinical Repair&trade; Wrinkle Correcting Serum"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "O-Bloos\u2122 Rosi Glow Drops with Vitamin F"
+  },
+  {
+    "brand_name": "Saint Jane Beauty",
+    "product_name": "Luxury Beauty Serum Calming Treatment"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "10% Azelaic Acid Booster for Redness Relief"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Clarifying Spot Treatment"
+  },
+  {
+    "brand_name": "MARA",
+    "product_name": "Niacinamide + Copper Clear Skin Mineral Milk Acne Treatment - 30mL"
+  },
+  {
+    "brand_name": "Saint Jane Beauty",
+    "product_name": "Sacred Sleep Overnight Repair with Retinol"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Water Bank Blue Hyaluronic Cream Moisturizer for Moisture Barrier Repair"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Refillable Moisturizing Cream with Squalane"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Cherry Blossom Dewy Glow Jelly Moisturizer with Niacinimide"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Hydra Vizor Refillable Invisible Face Moisturizer SPF 30 with Niacinamide"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "Confidence in a Cream Anti-Aging Hydrating Moisturizer"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "VinoHydra Gel Moisturizer with Hyaluronic Acid & Aloe Vera"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Premier Cru Skin Barrier Rich Moisturizer with Bio-Ceramides"
+  },
+  {
+    "brand_name": "EADEM",
+    "product_name": "Cloud Cushion Plush Moisturizer with Ceramides + Peptides"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Daily Greens Oil-Free Gel Moisturizer with Moringa and Papaya"
+  },
+  {
+    "brand_name": "The Outset",
+    "product_name": "Nourishing Squalane Daily Moisturizer"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Extra-Firming & Smoothing Day Moisturizer with SPF 15"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "Dewy Cleanse + Hydrate Duo"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Protect + Plump Firming & Hydrating Face Moisturizer"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Super Restorative Anti-Aging Day Moisturizer"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "C5 Super Boost Vitamin C Moisturizer for Brightening and Evening Tone"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "SuperSolutions Acne Clearing Moisturizer 2% NOVORETIN\u1d40\u1d39"
+  },
+  {
+    "brand_name": "Soleil Toujours",
+    "product_name": "Daily Defense Moisturizer Mineral SPF 60 with Vitamin C"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "Nudescreen Daily Mineral Face Veil SPF 30"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Multivitamin Power Recovery Cream"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Mini Face Cream"
+  },
+  {
+    "brand_name": "Naturally Serious",
+    "product_name": "Skin Warrior\u2122 Moisture Rescue Cream"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Super Multi-Corrective Soft Cream"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Mini R\u00e9nergie H.P.N. 300-Peptide Anti-Aging Cream"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Aquarius Pore Purifying BHA Cream"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "Ultimate Revival Cream"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Glowscreen SPF 40 Sunscreen with Hyaluronic Acid + Niacinamide"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Mineral Unseen Sunscreen SPF 40"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Ultimate Sun Protector Face and Body Lotion Sunscreen SPF 60+"
+  },
+  {
+    "brand_name": "Tower 28 Beauty",
+    "product_name": "SunnyDays SPF 30 Tinted Sunscreen Foundation"
+  },
+  {
+    "brand_name": "ILIA",
+    "product_name": "Super Serum Skin Tint SPF 40 Skincare Foundation"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Invisible Shield Priming Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "RESIST Youth-Extending Daily Hydrating Fluid SPF 50"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Icons Only SPF Bestseller Kit"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Lipshade 100% Mineral SPF 30 Hydrating Lipstick"
+  },
+  {
+    "brand_name": "ISDIN",
+    "product_name": "Eryfotona Ageless Ultralight Tinted Mineral Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Mineral SPF Starter Set"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "100% Mineral Sheerscreen Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "Iris&Romeo",
+    "product_name": "Best Skin Days SPF30 Whipped Tinted Moisturizer with Vitamin C + Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Mini Urban Environment Oil-Free SPF 42 Face Sunscreen with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Rose & Hyaluronic Acid Deep Hydration Toner"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Water Bank Blue Hyaluronic Revitalizing Toner"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Multi-Active Toner"
+  },
+  {
+    "brand_name": "KORRES",
+    "product_name": "Greek Yoghurt Foaming Cream Cleanser"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoclean Gentle Foam Cleanser"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Mini Ultra Facial Cleanser"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "2% Salicylic Acid Acne Gel Cleanser"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "Eczema+ Pre-Biotic Foaming Oil Cleanser"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Cr\u00e8me Radiance Gentle Cleansing Creamy-Foam Cleanser"
+  },
+  {
+    "brand_name": "Moon Juice",
+    "product_name": "Milk Cleanse Gentle Foaming Cleanser"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Cleanser"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Darker Skin Tones Foam Cleanser"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Gentle Cleansing Oil Makeup Remover"
+  },
+  {
+    "brand_name": "MACRENE actives",
+    "product_name": "High Performance Face Cleanser for Clear Skin with Niacinamide"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Cookies N Clean Whipped Clay Intensive Pore + Blackhead Face Scrub with Volcanic Sand + Charcoal"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Teatreement\u2122 Cleansing Foam"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "5 Minute Facial for Sensitive Skin"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Super Glow Cleansing Powder Vitamins C+E"
+  },
+  {
+    "brand_name": "DAMDAM",
+    "product_name": "Silk Rice Makeup-Removing Cleansing Oil"
+  },
+  {
+    "brand_name": "Hourglass",
+    "product_name": "Equilibrium Transformative Cleansing Balm"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Anti-Aging Cleansing Gel"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Sake Nourishing Essence"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "Mini The Essence Skincare Boosting Treatment"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Mini Beauty Elixir Prep, Set, Glow Face Mist"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Hydrating & Plumping Hyaluronic Acid Floral Essence"
+  },
+  {
+    "brand_name": "Bobbi Brown",
+    "product_name": "Vitamin Enriched Smoothing Serum with Niacinamide"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Treatment Lotion"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Hydra Life Balancing Hydration 2 in 1 Sorbet Water"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Purifying Charcoal Nose Pore Strip"
+  },
+  {
+    "brand_name": "Topicals",
+    "product_name": "Clearly Clarifying & Calming Mask For Breakout-Prone Skin"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "First Care Activating Single Sheet Mask"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Floral Recovery Overnight Mask with Squalane"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Cica Sleeping Mask for Moisture Barrier Support"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "MultiVitamin Power Recovery Mask"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "Brightening Serum Facial Treatment Sheet Masks"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cicapair\u2122 Tiger Grass Sleepair Intensive Night Mask"
+  },
+  {
+    "brand_name": "Naturally Serious",
+    "product_name": "Mask-imum Revival&trade; Hydra-Plumping Mask"
+  },
+  {
+    "brand_name": "DAMDAM",
+    "product_name": "Skin Mud Pure Vitamin C Brightening Mask"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Clarifying Pore AHA + BHA Mask with Salicylic Acid for Redness"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "12 Mini Advent-ures Gift Set"
+  },
+  {
+    "brand_name": "GUERLAIN",
+    "product_name": "Abeille Royale Intense Repair Youth Oil in Balm"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Water Bank Blue Hyaluronic Acid Hydrating Serum"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Super Bounce Hyaluronic Acid + Vitamin B5 Hydrating Face Serum"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Vitamin C & Bearberry Instant Brightening Serum"
+  },
+  {
+    "brand_name": "Dieux",
+    "product_name": "Deliverance Antioxidant & Niacinamide Serum for Calm & Even Skin"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Serum Stick Line-Smoothing Treatment & Touch Up Balm"
+  },
+  {
+    "brand_name": "Dr. Idriss",
+    "product_name": "The Depuffer Redness Reducing + Depuffing Roll-On Serum"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Futuredew Facial Oil-Serum Hybrid"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Absolue The Serum"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "Indigo Overnight Repair Redness Reducing Barrier Cream"
+  },
+  {
+    "brand_name": "Benefit Cosmetics",
+    "product_name": "The POREfessional Shrink Wrap Overnight AHA+PHA Pore Treatment"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Vitamin C Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Mandelic Acid 10% + HA"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "A+ High-Dose Retinol Serum"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "CLINICAL Discoloration Repair Serum"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + 10% Lactic Acid Resurfacing Serum"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "HydraKate Recharging Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Milky Way 10% AHA + Oat Soothing Exfoliating Serum"
+  },
+  {
+    "brand_name": "NuFACE",
+    "product_name": "FIX\u00ae Line Smoothing Serum"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Mini Cream Skin Refillable Toner & Moisturizer with Ceramides and Peptides"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Mini Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Bright Start Vitamin C Antioxidant Brightening Moisturizer"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Triple Prep Weightless Multitasking Moisturizer SPF 40 Face Sunscreen"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "Nudeskin Blemish Clarifying Gel Moisturizer"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Melt + Moisturize Minis Duo"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Priming Moisturizer Balance Oil-Control Gel-Cream"
+  },
+  {
+    "brand_name": "MATTER OF FACT",
+    "product_name": "MAXIMALIST AGE-DEFYING RICH MOISTURIZER with 4% Peptide & Hyaluronic Acid Blend"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Dramatically Different Moisturizing Lotion+"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Cream with TFC8&reg; Face Moisturizer"
+  },
+  {
+    "brand_name": "LAWLESS",
+    "product_name": "Mini Forget the Filler Skin-Plumping Line-Smoothing Moisturizer + Makeup Primer"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Ceramidin\u2122 Skin Barrier Moisturizing Cream"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Daily Essential Duo The Cream"
+  },
+  {
+    "brand_name": "MACRENE actives",
+    "product_name": "Moisturizing High Performance Face Cream with Peptides"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Hydrating & Mattifying Oil-Free Gel Cream"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Orchid Antioxidant Beauty Face Oil - For Combination Skin"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Phyto Nature Oxygen Cream"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Mini R\u00e9nergie H.P.N. 300-Peptide Anti-Aging Cream with SPF 25"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Emerald Hemp Seed Deep Moisture Glow Oil"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "KateCeuticals&reg; Total Repair Cream"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Daily UV Defense Invisible Broad Spectrum SPF 36 Sunscreen"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Mini City Skin Age Defense Broad Spectrum Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "Soleil Toujours",
+    "product_name": "Clean Conscious Body Sunscreen Mist with Vitamin C SPF 30-50"
+  },
+  {
+    "brand_name": "CAY SKIN",
+    "product_name": "Isle Nourishing Body Mist SPF 50 with Sea Moss and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Iris&Romeo",
+    "product_name": "Mini Weekend Skin SPF 50 Instant Glow Tinted Mineral Sunscreen with Vitamin C + Niacinamide"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Mineral Face Sunscreen Broad Spectrum SPF 50"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Lotus Youth Preserve Exfoliating Face Toner"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Green Tea Enzyme 7% PHA Gentle Exfoliating Toner"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "Facial Treatment Clear Lotion Toner"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Glycolic Acid Toner"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Teatreement\u2122 Toner"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Pre-Show Glow Refillable Instant Retexturizing 10% AHA Treatment"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Pure Skin Face Cleanser \u2013 Gentle Hydrating Cleanser"
+  },
+  {
+    "brand_name": "goop",
+    "product_name": "goopglow Cloudberry Exfoliating Jelly Cleanser"
+  },
+  {
+    "brand_name": "REFY",
+    "product_name": "Face Cleanse Hydrating Cleanser + Makeup Remover"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "E-Rase\u2122 Milki Micellar Water"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Deep Dive&trade; Glycolic Facial Cleanser"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Redness Solutions Soothing Cleanser"
+  },
+  {
+    "brand_name": "Hyper Skin",
+    "product_name": "Gentle Brightening Gel Cleanser with Mandelic Acid"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Cleansing Serum"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Total Cleansing Oil & Makeup Remover"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Complete Cleansing Microfoam"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Cocoa Cleans'r Soothing All-Over Cleansing Bar"
+  },
+  {
+    "brand_name": "Kosas",
+    "product_name": "Plump + Juicy Vegan Collagen + Probiotic Spray-On Serum"
+  },
+  {
+    "brand_name": "GUERLAIN",
+    "product_name": "Abeille Royale Double Clarify & Repair Essence"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Vital Hydra Solution\u2122 Hydro Plump Treatment Essence with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Elemis",
+    "product_name": "Anti-Wrinkle Hydrating Essence with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Rare Beauty by Selena Gomez",
+    "product_name": "Mini Always an Optimist 4-in-1 Mist"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Texture Tonic AHA Liquid Exfoliating Treatment"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "SKINPOWER Essence Serum"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Facial Spray with Aloe, Chamomile and Lavender"
+  },
+  {
+    "brand_name": "NuFACE",
+    "product_name": "Supercharged IonPlex\u00ae Facial Mist"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Hydrating Infused Emulsion"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cryo Rubber\u2122 Soothing Face Mask"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "Jet Lag Mask + Moisturizer"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Cryo-Flash Instant Lift Effect & Glow Boosting Face Mask"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Capture Dreamskin 1-Minute Mask"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Niacinamide 10% + Zinc 1% Oil Control Serum"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "B-Hydra\u2122 Intensive Hydration Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Topicals",
+    "product_name": "Mini Faded Serum for Dark Spots & Discoloration"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Truth Serum Hydrating Vitamin C Serum"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Dynamic Skin Retinol Serum"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Concentrate Serum"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Ceramidin\u2122 Skin Barrier Serum Toner"
+  },
+  {
+    "brand_name": "GUERLAIN",
+    "product_name": "Abeille Royale Anti-Aging Double R Advanced Serum"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Niacinamide Oil Control Serum"
+  },
+  {
+    "brand_name": "BeautyBio",
+    "product_name": "The ZenBubble Weightless Oil-Control & Redness Repair Toner Serum with Soothing Cica"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Brightening Treatment Drops Triple Vitamin C Serum"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Nova 15% Vitamin C + Turmeric Brightening Serum"
+  },
+  {
+    "brand_name": "Saint Jane Beauty",
+    "product_name": "Vitamin C Glow Drops - Brightening Serum with 20% Vitamin C Blend"
+  },
+  {
+    "brand_name": "MATTER OF FACT",
+    "product_name": "BRIGHTENING + FIRMING SERUM with 20% Vitamin C + Ferulic Acid"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "Mini The Serum with TFC8\u00ae"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Powerful-Strength Vitamin C Serum"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cicapair Sensitive Skin Serum for Redness and Barrier Repair"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Moisture Boost Plumping Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "EUK 134 0.1% Antioxidant Serum"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Pure Hyaluronic Acid 1.5% Serum"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Mini Watermelon Glow Niacinamide Hue Drops Sun Glow Serum"
+  },
+  {
+    "brand_name": "goop",
+    "product_name": "GOOPGLOW Exfoliating Dark Spot Sleep Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "100% Plant-Derived Squalane"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Goodbye Acne &trade; Complete Acne Treatment Gel"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Hydra Life Deep Hydration Sorbet Water Essence"
+  },
+  {
+    "brand_name": "Lion Pose",
+    "product_name": "Mane Mini Day & Night Set with SPF & AHA"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Premier Cru Anti Aging Cream Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "ILIA",
+    "product_name": "Barrier Build Skin Protectant Cream \u2013 Moisturizer with Ceramides"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinopure Oil-Control Moisturizer for Acne Prone Skin"
+  },
+  {
+    "brand_name": "belif",
+    "product_name": "The True Cream Moisturizing Bomb with Peptide and Ceramide"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "ExfoliKate\u2122 Glow Moisturizer with AHA"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "2% Salicylic Acid Acne Gel Moisturizer"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Banana Bright+ Instant Glow Moisturizer with Niacinamides and Vitamin C"
+  },
+  {
+    "brand_name": "Freck Beauty",
+    "product_name": "Rich Bitch Cactus + Vitamin C Moisturizer"
+  },
+  {
+    "brand_name": "Then I Met You",
+    "product_name": "Essence Light Sunscreen Broad Spectrum Moisturizer SPF 50 PA +++"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Omega Repair Deep Hydration Moisturizer with Ceramides and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Mini Melt Moisturizer with Bakuchiol and Squalane"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cicapair\u2122 Sensitive Skin Moisturizer for Redness"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Calm Water Gel Moisturizer"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Mini Moisture Surge\u2122 Broad Spectrum SPF 28 Sheer Hydrator Moisturizer"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Clarifying Water Gel Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Moisturizer"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "HydraKate Recharging Water Cream Moisturizer"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "Mini C.E.O. Vitamin C Brightening Rich Hydration Moisturizer"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Even Better Clinical\u2122 Brightening Moisturizer"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Revitalizing Supreme+ Bright Soft Creme Moisturizer with Vitamin C"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Plantscription\u2122 Retinol Night Moisturizer with Alpine Flower"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Ultra Repair Hydra-Firm Night Cream"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Dramatically Different Moisturizing Cream"
+  },
+  {
+    "brand_name": "Aestura",
+    "product_name": "ATOBARRIER365 Cooling Hydro Soothing Gel-Cream with Ceramides for Skin Moisture Barrier Repair"
+  },
+  {
+    "brand_name": "Saint Jane Beauty",
+    "product_name": "Luxury Sun Ritual Pore Smoothing Face Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Essential-C Day Face Sunscreen Broad Spectrum SPF 30 PA+++"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Plantscription&trade; SPF 25 Power Anti-Aging Cream"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Beauty Sleep Overnight Repair Treatment Cream with AHA's and Vitamin C"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Lapis Blue Tansy Face Oil - For Oily & Acne-Prone Skin"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Essential Energy SPF 20 Day Cream with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Capture Totale Hyalushot: Wrinkle Corrector with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "RANAVAT",
+    "product_name": "Renewing Bakuchi Cr\u00e8me - Eternal Reign"
+  },
+  {
+    "brand_name": "Saie",
+    "product_name": "Mini Sunvisor Radiant Moisturizing Face Sunscreen SPF 35"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "PLAY Everyday Lotion SPF 50 Face & Body Sunscreen"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Protec(tint) Daily SPF Tint SPF 50 Sunscreen Skin Tint with Ectoin"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Super Fluid Daily UV Defense Sunscreen Broad Spectrum SPF 50+"
+  },
+  {
+    "brand_name": "Sarah Creal",
+    "product_name": "Brilliant Repair Shield Illuminating Broad Spectrum Face Mineral Sunscreen Serum SPF 50"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Mini Hydra Vizor Mineral Sunscreen SPF 30 Refillable Moisturizer"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Sun Drops Face Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "CAY SKIN",
+    "product_name": "Isle Lip Balm SPF 30 with Sea Moss and Aloe Stem Cells"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "Nudescreen SPF 30 Blush Tint"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Invisible Physical Defense Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Glycolic Acid 7% Exfoliating Toner"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Glow2OH 7% AHA Exfoliating Dark Spot Toner"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Polyhydroxy Acid (PHA) Gentle Exfoliating Toner"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Secret Solutions Pro-Glycolic\u00ae 10% Resurfacing Treatment Toner"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Water Bank Blue Hyaluronic Exfoliating Toner"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Balancing Toner"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Hydrating Toner with Squalane + Oats"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinopure Pore Purifying Gel Cleanser"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Fulvic Acid Brightening Cleanser"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Mini Fulvic Acid Brightening Cleanser"
+  },
+  {
+    "brand_name": "Elemis",
+    "product_name": "Dynamic Gentle Resurfacing Enzyme Cleanser"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "CLEAR Pore Normalizing Acne Cleanser"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Aquarius BHA + Blue Tansy Clarifying Cleanser"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Slaai\u2122 Makeup-Melting Butter Cleanser"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Superkind Brightening Refining Cleanser for Skin Barrier Support"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Find Your Balance\u2122 Oil Control Cleanser"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Gentle Cleansing Foam"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Clarifying Cleansing Foam"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Special Cleansing Gel"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Deep Cleanser with Red Clay"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Creamy Gentle Exfoliating Pore Perfecting Cleanser with Salicylic Acid"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Mini Oat Cleansing Balm"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Nourishing Makeup Removing Oil Cleanser with Squalene and Vitamin E"
+  },
+  {
+    "brand_name": "GUERLAIN",
+    "product_name": "Abeille Royale Cleansing Foam"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Sugar Strawberry Exfoliating Face Wash"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Take The Day Off Cleansing Oil Makeup Remover"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Skin Renewal System"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Midnight Recovery Botanical Cleansing Oil"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Beard Grooming Kit\u2122"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Beard Lube Conditioning Shave - 3 Pack"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Watermelon Glow PHA + BHA Pore-Tight Toner"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Essence"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Jasmine Green Tea Oil Control Toner"
+  },
+  {
+    "brand_name": "caliray",
+    "product_name": "Surfproof Water Resistant No-Transfer Setting Spray With Niacinamide"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Vital Hydra Solution\u2122 PRO Glow Face Mask with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Soothing Hydra Solution\u2122 PRO Face Mask for Irritated Skin"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "T.L.C. Sukari Babyfacial&trade; AHA + BHA Mask"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Drink Up\u2122 Intensive Overnight Hydrating Face Mask with Avocado & Swiss Glacier Water"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cryo Rubber\u2122 Face Mask with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Superkind Gentle AHA Radiance Mask for Skin Barrier Repair"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Cucumber Gel Mask Extreme Detoxifying Hydrator"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "V-Facial Instant Depuffing Face Mask"
+  },
+  {
+    "brand_name": "goop",
+    "product_name": "GOOPGLOW Microderm Instant Glow Exfoliator"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Plumping Booster Serum with Bakuchiol"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "Jet Lag Deep Hydration Serum"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Triple Peptide Hydrating + Firming Oasis Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Glowy Makeup Serum"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Circular Hydration Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinopure Natural Salicylic Acid Pore Minimizing Serum"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "AGE Bright Clearing Serum"
+  },
+  {
+    "brand_name": "Hello Sunday",
+    "product_name": "The One That's a Serum SPF 45 Hydrating & Brightening Vitamin C Serum"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Guava Vitamin C Dark Spot Brightening Treatment Serum"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Fat Water Niacinamide Pore-Refining Toner Serum with Barbados Cherry"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "DeliKate\u2122 Recovery Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Retinal 0.2% Emulsion Serum"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Kakadu Plum Brightening Vitamin C Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Smart Response Serum"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Double the Plump Refill Kit"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Watermelon Glow Niacinamide Dewy Flush - Brightening Serum Blush"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Slushy Serum Moisturizer Crush Infused with Bakuchiol"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Filling Good Hyaluronic Acid Plumping Serum"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Bija Salicylic Spot Gel Serum"
+  },
+  {
+    "brand_name": "PHYLA",
+    "product_name": "Acne Phage Serum"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Perfectionist Pro Rapid Brightening Serum"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Moon Fruit 1% Bakuchiol + Peptides Retinol Alternative Serum"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Hyaluronic Serum"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Retinol Fast-Release Wrinkle Reducing Night Serum"
+  },
+  {
+    "brand_name": "Element Eight",
+    "product_name": "O2 Niacinamide Eight Active Multitasking Serum"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Resurfacing & Brightening AHA + BHA Serum with Vitamin C"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Retinol Reform\u00ae Treatment Serum"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Drying Lotion"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "InvisiScar Post-Acne Resurfacing Treatment"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Retinol Remix 1% Retinol Treatment With Peptide & Tranexamic Acid"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Rapid Collagen Infusion"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Acne Solutions\u2122 Clinical Clearing Gel"
+  },
+  {
+    "brand_name": "Mango People",
+    "product_name": "Juicy Glow Prep & Hydrate Balm Stick with Centella Asiatica"
+  },
+  {
+    "brand_name": "Tower 28 Beauty",
+    "product_name": "SOS Daily Skin Barrier Redness Recovery Moisturizer"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "barrier+ Strengthening and Moisturizing Triple Lipid-Peptide Refillable Cream with B-L3"
+  },
+  {
+    "brand_name": "Community Sixty-Six",
+    "product_name": "Nourishing Rich Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Priming Moisturizer Lightweight Buildable Face Cream"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "SuperSolutions 10% Urea Moisturizer Textured Skin Solution"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Super Peptide & Ghostberry Moisturizer for Eczema, Barrier and Wrinkle Repair"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Daily Blemish Repairing Moisturizer"
+  },
+  {
+    "brand_name": "belif",
+    "product_name": "The True Cream Aqua Bomb with Hyaluronic Acid and Niacinamide"
+  },
+  {
+    "brand_name": "Community Sixty-Six",
+    "product_name": "Everyday Mineral Moisturizer SPF 30 Sunscreen"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "BioLumin-C Vitamin-C Gel Moisturizer"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Super Restorative Anti-Aging Night Moisturizer"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Clinique For Men\u2122 Oil-Free Moisturizer"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "NightWear Plus Anti-Oxidant Night Detox Moisturizer Creme"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "Advanced Retinol Nightly Renewal Face Moisturizer with Retinol"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Refillable Magic Night Moisturizer with Retinol"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Clinique For Men\u2122 Maximum Hydrator 72-Hour Auto-Replenishing Hydrator"
+  },
+  {
+    "brand_name": "The Outset",
+    "product_name": "Botanical Rescue Barrier Balm"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Mini 24-7 Moisture Hydrating Day & Night Cream"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Phoenix Rosehip Anti-Aging Face Oil - For Dry Skin"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "PLAY 100% Mineral Sunscreen Lotion SPF 30 with Green Algae"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Resilience Multi-Effect Tri-Peptide Face and Neck Cr\u00e8me"
+  },
+  {
+    "brand_name": "LIGHTSAVER",
+    "product_name": "Tinted - Activated Mineral Face Sunscreen Broad Spectrum - SPF 33"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Umbra 100% Mineral Cream SPF 30/PA+++ Tinted Face Sunscreen"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "PLAY Antioxidant Body Sunscreen Mist SPF 50"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Mini Glow Oil SPF 50 Dry Body Oil Sunscreen"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "All-Physical Ultimate Defense Broad Spectrum Sunscreen SPF 50 PA++++"
+  },
+  {
+    "brand_name": "Iris&Romeo",
+    "product_name": "Weekend Skin SPF 50 Instant Glow Tinted Mineral Sunscreen with Vitamin C + Niacinamide"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "Hello Sunshine Invisible Sunscreen For Face SPF 50"
+  },
+  {
+    "brand_name": "Laura Mercier",
+    "product_name": "Tinted Moisturizer Oil Free Natural Skin Perfector Broad Spectrum SPF 20"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Mini Secret Solutions Pro-Glycolic\u00ae 10% Resurfacing Treatment Toner"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Green Clean Gentle Creamy Cleanser"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Glucoside Foaming Cleanser"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Green Clean Whipped Foaming Cleanser"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "Barrier+ Foaming Oil Hydrating Cleanser"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "One-Step Gentle Exfoliating Cleanser"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Essence Foaming Cleanser"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Kombucha 2-in-1 No-Rinse Cleanser & Prebiotic Treatment"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Acne Facial Cleanser"
+  },
+  {
+    "brand_name": "RANAVAT",
+    "product_name": "Balancing Cr\u00e8me Cleanser - Luminous Ceremony"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoclean Gentle Cleansing Almond Milk"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "GinZing&trade; Refreshing Scrub Cleanser"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Keep It Clean Hydrating Gel Cleanser with Ceramides & 10 Amino Acids"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Intensive Moisture Cleanser"
+  },
+  {
+    "brand_name": "Aestura",
+    "product_name": "ATOBARRIER365 Gentle pH-Balancing Foaming Cleanser for Skin Moisture Barrier Repair"
+  },
+  {
+    "brand_name": "MARA",
+    "product_name": "Mini Chia + Moringa\u00ae Algae Enzyme Cleansing Oil"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "FAB Face Faves \u2013 Best of Skincare Cleanse, Exfoliate + Hydrate Gift Set"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Bye Bye Bumps - Best of Body Exfoliating Gift Set"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Baby Bar Travel Duo with Case"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Mini Grape Water Moisturizing Face Mist"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "Pink Drink Firming Resurfacing Peptide Face Mist"
+  },
+  {
+    "brand_name": "Topicals",
+    "product_name": "Clearly Clarifying & Calming Mist For Acne-Prone Skin"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Clarifique Double Treatment Hydrating & Exfoliating Essence"
+  },
+  {
+    "brand_name": "Gucci",
+    "product_name": "Brume de Beaut\u00e9 Beauty Mist"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Hydrating Hyaluronic Acid Face Masks"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Pumpkin Enzyme Mask Enzymatic Dermal Resurfacer"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Overnight Hydrating Mask"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Out of Trouble\u2122 10 Minute Face Mask to Rescue Problem Skin"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Original Skin&trade; Retexturizing Mask with Rose Clay"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Hyaluronic Acid 2% + B5 Hydrating Serum"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Mini Charlotte\u2019s Magic Serum with Vitamin C"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Argireline Solution 10% Serum for Facial Wrinkles"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Better Screen\u2122 UV Serum SPF 50+ Facial Sunscreen with Collagen Peptide"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Plum Plump\u2122 Hyaluronic Acid Hydrating Serum"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "25% Vitamin C + Glutathione Clinical Serum for Brightening & Dark Spots"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "24-7 Ultra Hydration Triple-Hydra\u2122 Complex Day & Night Serum with Hyaluronic Acid, Squalane & Collagen"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "One Essential Skin Boosting Super Serum"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "C-Luma Hydrabright Gentle Hydrating Vitamin C Serum"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Strawberry BHA Pore-Smooth Blur Drops"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Bronzi and the Bloos Color Serum Duo"
+  },
+  {
+    "brand_name": "DAMDAM",
+    "product_name": "Citrus Glow Vitamin C & Hyaluronic Acid Serum"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Advanced Night Repair Synchronized Multi-Recovery Complex Serum Duo"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Advanced Night Repair Eye Serum Concentrate Matrix Synchronized Multi-Recovery Complex"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "15% Vitamin C + Caffeine Energy Brightening Serum for Uneven Tone"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "Nude Glow Peptide Serum"
+  },
+  {
+    "brand_name": "HigherDOSE",
+    "product_name": "Glow Serum with Copper Peptides and Vegan Collagen"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Super Anti-Aging Serum"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Retinol Fusion PM Night Serum"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Invisiblur\u2122 Perfecting Face Sunscreen Broad Spectrum SPF 30 PA+++"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Deep Relief Acne Treatment with Salicylic Acid"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Double Rewind Pro-Grade 0.3% Retinol for Fine Lines & Wrinkles"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Cloudberry Bright Refillable Cream Moisturizer"
+  },
+  {
+    "brand_name": "MERIT",
+    "product_name": "Great Skin Priming And Firming Moisturizer With Peptides And Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Dr. Idriss",
+    "product_name": "Major Fade Active Seal Dark Spot Vitamin C Gel Moisturizer"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Mini Lala Retro\u2122 Nourishing Whipped Moisturizer"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Natural Moisturizing Factors + PhytoCeramides - Moisture-Rich Surface Hydration"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Lotus Youth Preserve Line & Texture Smoothing Moisturizer"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Mini Honey Halo Ultra-Hydrating Ceramide Moisturizer"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Mini Water Bank Blue Hyaluronic Cream Moisturizer for Moisture Barrier Repair"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Mini Superfood Air-Whip Lightweight Face Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Nourishing Moisturizer for Skin Barrier"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Melt Moisturizer with Bakuchiol & Ceramides"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "Oil Free Moisturizer"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Lotus Youth Preserve Radiance Renewal Night Cream"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Hello FAB Coconut Skin Smoothie Priming Moisturizer"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cicapair\u2122 Tiger Grass Color Correcting Treatment SPF 30"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Even Better Brightening Moisturizer SPF 20"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "ICE Ceramide Moisturizer with Vitamin F"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Mini Magic Water Cream Gel Moisturizer with Niacinimide"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Rich Cream with TFC8&reg; Face Moisturizer"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Retinol Youth Renewal Night Cream"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Redness Solutions with Probiotic Technology Daily Relief Cream"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Instant Reset Brightening Overnight Recovery Gel-Cream With Niacinamide + Kalahari Melon Oil"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Kiehl's Fan Favorites Gift Set"
+  },
+  {
+    "brand_name": "goop",
+    "product_name": "GOOPGENES Nourishing Repair Body Butter"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Smart Clinical Repair\u2122 Wrinkle Correcting Rich Cream"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Smart Clinical Repair\u2122 Wrinkle Correcting Cream"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Daily UV Defense Mineral Sunscreen Broad Spectrum SPF 45"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Mini Unseen Sunscreen SPF 50 Invisible Sun Protection for Face"
+  },
+  {
+    "brand_name": "belif",
+    "product_name": "The True Cream Aqua Bomb SPF 45 Korean Moisturizer Face Sunscreen"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Glow Stick Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "Hello Sunday",
+    "product_name": "The Invisible One SPF 50 Hydrating Face Sunscreen + Primer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "UV Plus Anti-Pollution Antioxidant Face Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Oil-Free Sun Guard Sunscreen Water Resistant SPF 45"
+  },
+  {
+    "brand_name": "Hello Sunday",
+    "product_name": "The Shimmer One SPF 45 Face and Body Mineral Sunscreen Glow Stick with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Max Clear Invisible Priming Sunscreen Broad Spectrum SPF 45"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Mineral Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + 2% BHA Pore Minimizing Toner"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Milk-Peel Gentle Exfoliating Toner"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Skin Changer Succinic Acid Essence-Toner"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Clarifying Toner"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Clarifying Lotion 1"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Green Clean Makeup Removing Cleansing Balm"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Glycolipid Cream Cleanser"
+  },
+  {
+    "brand_name": "Dr. Idriss",
+    "product_name": "Mini Soft Wash Jelly Cleanser"
+  },
+  {
+    "brand_name": "DAMDAM",
+    "product_name": "Nomad\u2019s Cream Purifying & Exfoliating AHA Cleanser"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Rare Earth Deep Pore Daily Cleanser"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Velvet Hydrating Cleansing Milk"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Perfectly Clean Multi-Action Foam Cleanser/Purifying Mask"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Clarifying Pore & Oil Control Cleanser with BHA & AHA for Redness"
+  },
+  {
+    "brand_name": "Josie Maran",
+    "product_name": "Argan Melt-Away Makeup Removing Cleansing Oil"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "All About Clean\u2122 Liquid Facial Soap"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Beard Lube\u00ae Conditioning Shave"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "Ultimate Revival Essence"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Facial Spray with Aloe Adaptogens, and Coconut Water"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "Mini Jet Lag Mask + Moisturizer"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Cherry Dub Blah to Bright 5% AHA Face Mask with Salicylic Acid + Vitamin C"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Water Sleeping Mask with Niacinamide & Squalane"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Signature Nourishing Facial Mask with Squalane"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Black Tea Firming Overnight Mask"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "Saturn Sulfur + Niacinamide Spot Treatment Mask"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Intensive Revitalizing Mask"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Green Tea Enzyme Vitamin C Brightening Serum"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Pomegranate Peptide Firming Serum"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Hyaluronic Acid Copper Peptide Rapid Plumping & Hydrating Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Multi-Peptide + Copper Peptides 1% Serum"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Dewy Serum Resurfacing and Plumping Treatment"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Vitamin C Lactic 15% Firm & Bright Serum"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "Wrinkle Warrior\u2122 2-in-1 Plumping Moisturizer + Hyaluronic Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Azelaic Acid 10% Suspension Brightening Cream"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Clearly Corrective\u2122 Daily Re-Texturizing Triple Acid Peel"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Mini Nova 15% Vitamin C + Turmeric Brightening Serum"
+  },
+  {
+    "brand_name": "Westman Atelier",
+    "product_name": "Skin Activator Serum Duo with Hyaluronic Acid + Niacinamide"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Clearly Corrective Dark Spot Correcting Serum"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Peptide Skinjection\u2122 Amplified Wrinkle-Fix Refillable Serum"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Midnight Recovery Concentrate Moisturizing Face Oil"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Body Reform Treatment Serum with 2% Granactive Retinoid"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Even Smoother&trade; Glycolic Retinol Resurfacing Serum"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Mini Fat Water Niacinamide Pore-Refining Toner Serum with Barbados Cherry"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Active Blast Concentrated Collagen Daily Treatment"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Acne Solutions All-Over Clearing Treatment Oil-Free"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Dewy Skin Cream Plumping & Hydrating Refillable Moisturizer"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "Cloud Dew Gel Cream Moisturizer"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Green Tea Seed Hyaluronic Acid Hydrating Cream"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Vital Hydra Solution\u2122 Water Cream Glow Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Mini Squalane + Omega Repair Deep Hydration Moisturizer"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "GinZing\u2122 SPF 40 Energy-Boosting Tinted Moisturizer"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Ectoin Overnight Rescue Deep Repair Night Moisturizer"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Symbright\u00ae Brightening Moisturizer"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Hydra Life Intense Sorbet Cr\u00e8me Moisturizer"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Double-Duty Face Moisturizer Broad Spectrum SPF 20"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Moisturizer SPF 30"
+  },
+  {
+    "brand_name": "ROSE Ingleton MD",
+    "product_name": "Signature Moisturizer"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Hydra-Essentiel Silky Moisturizer with Double Dose Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "C.E.O. Afterglow Brightening Vitamin C Moisturizer"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Dry Erase\u00ae Ultra-Calming Face Cream"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Hydrating Cica Express Repair Care Cream"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Darker Skin Tones Face Cream"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Cream with SPF 30 Sunscreen"
+  },
+  {
+    "brand_name": "Lion Pose",
+    "product_name": "Pep Talk Barrier Repair Cream with Peptides + Ceramides + Triple Lipid Complex"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Vitamin C Lactic Dewy Deep Cream"
+  },
+  {
+    "brand_name": "Hanni",
+    "product_name": "Shave Pillow Moisturizing Body Gel"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Moisture Surge Hydrating Supercharged Concentrate"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Watermelon Glow Niacinamide Dew Balm Face Sunscreen Stick- SPF 45"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Unseen Sunscreen Stick SPF 40 Invisible Sun Protection"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Kissu Lip Tint SPF 25 Hydrating Tinted Lip Sunscreen"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Hydrate + Protect Bestseller Minis Set"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Invisible Physical Defense Mineral Face Sunscreen SPF30"
+  },
+  {
+    "brand_name": "Soleil Toujours",
+    "product_name": "Brightening Eye Cream Mineral SPF 30 with Niacinamide & Vitamin C"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Toner"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Witch Hazel & Rosewater Toner"
+  },
+  {
+    "brand_name": "Moon Juice",
+    "product_name": "Mini Acid Potion AHA + BHA Resurfacing Exfoliator"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Avocado Ceramide Moisture Barrier Cleanser"
+  },
+  {
+    "brand_name": "Tower 28 Beauty",
+    "product_name": "SOS Gentle Hydrating Gel Cleanser + Makeup Remover"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Salicylic Acid Acne + Blackhead Cleanser"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Matcha Cleanse Daily Clarifying Gel Cleanser"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Squalane Cleanser"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Juneberry & Vitamin C Hydrating Cold Cream Cleanser"
+  },
+  {
+    "brand_name": "The Nue Co.",
+    "product_name": "Barrier Culture Cleanser Pre-, Pro- & Postbiotic Face Wash"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Glycolic Foaming Cleanser"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Superberry Dream Cleansing Balm"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Volcanic BHA Pore Cleansing Foam"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Alpha Beta\u00ae AHA/BHA Daily Cleansing Gel"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Face Scrub"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Calendula Deep Clean Foaming Face Wash"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Acne Solutions\u2122 Cleansing Gel"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Honey Milk Hydrating Essence with Chamomile + Ceramides"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Essence Skincare Boosting Treatment"
+  },
+  {
+    "brand_name": "Kosas",
+    "product_name": "Mini Plump + Juicy Vegan Collagen + Probiotic Spray-On Serum"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Rose Hydration Pore-Minimizing Mist"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Rose Hibiscus Hydrating Mist"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Superberry Hydrate + Glow Dream Night Cream + Mask with Vitamin C"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "10% Niacinamide Night Mask"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Booster Eye Mask Smooth + Peptides"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Pore Remedy&trade; Purifying Mud Face Mask"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Overnight Hydrating Face Mask with 10.5% Squalane"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Super Collagen Mask"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Silver Powder"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Advent Calendar"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Lifting and Firming Mask"
+  },
+  {
+    "brand_name": "MERIT",
+    "product_name": "Great Skin Instant Glow Serum with Niacinamide and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Isle of Paradise",
+    "product_name": "Sunny Serum Instant Face Bronzer"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Concentrated Ginseng Renewing Serum for Anti-Aging"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Ultimune Power Infusing Anti-Aging Serum & Refill"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Granactive Retinoid* 2% Emulsion"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "First Care Trial Kit"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Turnaround\u2122 Accelerated Renewal Serum"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "SuperSolutions 20% Niacinamide Serum"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Retinol Youth Renewal Serum"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Youth Reformer Firming Vitamin C Oil Serum"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Active Collagen Wonder Serum"
+  },
+  {
+    "brand_name": "MACRENE actives",
+    "product_name": "High Performance Face Serum with Vitamin C and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Westman Atelier",
+    "product_name": "Supr\u00eame C 100% Vitamin C Brightening Serum"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + 10% Vitamin C Dark Spot Serum"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Darker Skin Tones Hyaluronic Serum"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Water Drench&reg; Hyaluronic Glow Serum"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Faceshot\u2122 Vitamin Ampoules Refill"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Ascorbyl Glucoside Solution 12%"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Anti-Pollution Drops"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Omega Water Cream Oil-Free Moisturizer + Niacinamide"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Moisturizing Soft Cream Moisturizer"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Water Drench\u00ae Hyaluronic Cloud Cream Hydrating Refillable Moisturizer"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Soothing Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "MACRENE actives",
+    "product_name": "High Performance Tinted Moisturizer"
+  },
+  {
+    "brand_name": "MATTER OF FACT",
+    "product_name": "MINIMALIST HYDRATING MOISTURIZER with Pro-Vitamin B5"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Plant Stem Cell Retinol Alternative Firming Moisturizer"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "C.E.O. Vitamin C Brightening Rich Hydration Moisturizer"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Daily Repairing Moisturizer"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Vitamin C Glow Moisturizer"
+  },
+  {
+    "brand_name": "Community Sixty-Six",
+    "product_name": "Oil Control Moisturizer with Niacinamide"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Repairative Anti-Aging Moisturizer with Hyaluronic Acid for Dewy Skin"
+  },
+  {
+    "brand_name": "CAY SKIN",
+    "product_name": "Isle Glow Face Sunscreen Moisturizer SPF 45 with Sea Moss and Niacinamide"
+  },
+  {
+    "brand_name": "The Nue Co.",
+    "product_name": "Barrier Culture Moisturizer with Niacinamide & Squalane"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "Nudeskin Citrus-C - Vitamin C Moisturizer & Mask"
+  },
+  {
+    "brand_name": "Moon Juice",
+    "product_name": "Cosmic Cream\u2122 Collagen Protecting Moisturizer"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Alpha Beta\u00ae Daily Moisturizer"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "FIRMx\u00ae Collagen Moisturizer"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Instant FIRMx\u00ae Collagen Bounce Stick"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Hydration Peptide Cream"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Advanced Repair Barrier Cream"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Adaptogen Deep Moisturizing Cream with Ashwagandha + Reishi Mushroom"
+  },
+  {
+    "brand_name": "Element Eight",
+    "product_name": "O2 Growth Factor Eight Active Brightening & Firming Cream"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "SKINPOWER Advanced Cream"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Calming Cr\u00e8me"
+  },
+  {
+    "brand_name": "Element Eight",
+    "product_name": "O2 Hyaluronic Acid Hydrate Correct Cream for Dry Skin"
+  },
+  {
+    "brand_name": "Element Eight",
+    "product_name": "O2 Caffeine Eight Active Brightening & Depuffing Eye Cream"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "GinZing\u2122 Ultra-Hydrating Energy-Boosting Cream"
+  },
+  {
+    "brand_name": "GUERLAIN",
+    "product_name": "Abeille Royale Honey Treatment Day Cream with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Mini Concentrated Ginseng Renewing Cream"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Micro Essence Treatment Lotion with Bio-Ferment"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Capture Totale Super Potent Rich Cream"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "GinZing\u2122 Energizing Gel Cream with Caffeine & Niacinamide"
+  },
+  {
+    "brand_name": "NuFACE",
+    "product_name": "NuFACE\u00ae Firming and Brightening Silk Cr&egrave;me"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Unseen Sunscreen Invisible Broad Spectrum SPF 50 PA +++"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Mini Glowscreen Sunscreen SPF 40 with Hyaluronic Acid + Niacinamide"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Water Drench\u00ae Hyaluronic Cloud Sheer Tint Moisturizer Broad Spectrum Sunscreen SPF 45"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Unseen Body Sunscreen SPF 40"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Urban Environment Oil-Free SPF 42 Mineral Face Sunscreen"
+  },
+  {
+    "brand_name": "CAY SKIN",
+    "product_name": "Isle Glow Body Lotion Sunscreen SPF 45 with Sea Moss and Cocoa Seed Butter"
+  },
+  {
+    "brand_name": "tarte",
+    "product_name": "BB blur tinted moisturizer Broad Spectrum SPF 30 Sunscreen"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Superfood Gentle Antioxidant Refillable Cleanser"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Milky Jelly Gentle Gel Face Cleanser"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Mini Turmeric Glow Foaming Cleanser"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Amino Aloe Gentle Pore-Minimizing Cleanser"
+  },
+  {
+    "brand_name": "ILIA",
+    "product_name": "The Cleanse Soft Foaming Cleanser + Make Up Remover"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "Acne+ 2% BHA + Azelaic Acid + Niacinamide + AHA Cleanser"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "La Mousse OFF/ON Foaming Face Cleanser"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Ultracalming Cleanser"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "Ceramic Slip French Green Clay Cleanser"
+  },
+  {
+    "brand_name": "Topicals",
+    "product_name": "Faded Brightening & Cleansing Body Bar for Uneven Skin Tone (2 Pack)"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Blackhead Solutions 7 Day Deep Pore Cleanse & Face Scrub"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Pekee\u2122 Cleansing Bar"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Mini Alpha Beta\u00ae AHA/BHA Daily Cleansing Gel"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Supreme Cream Triple Cushion&trade; Shave Lather"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Grape Water Moisturizing Face Mist"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "GenOptics Spot Essence Serum"
+  },
+  {
+    "brand_name": "Flora + Bast",
+    "product_name": "Soothe + Hydrate Barrier Building Hydrosol Mist"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Mini Floral Recovery Overnight Mask with Squalane"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Vital Hydra Solution\u2122 PRO Glow Face Mask with Hyaluronic Acid 5-Pack Value Set"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Lotus Youth Preserve Exfoliating Rescue Mask"
+  },
+  {
+    "brand_name": "RANAVAT",
+    "product_name": "Resurfacing Saffron AHA Masque - Radiant Rani"
+  },
+  {
+    "brand_name": "FOREO",
+    "product_name": "H2Overdose Activated Mask"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Moisture Surge\u2122 Overnight Face Mask"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "Redness Recovery + Antioxidant Peptide Treatment Mask"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "C.E.O. 15% Vitamin C Brightening Serum"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Resveratrol Lift Instant Firming Refillable Retinol Alternative Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Vitamin C Suspension 23% + HA Spheres 2%"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Super Anti-Aging Dual Serum with Triple Hyaluronic Acid, Glutathione, Skullcap + Ceramide-Peptide Complex"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Balancing & Clarifying Serum for Blemish-Prone Skin"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "KateCeuticals&reg; Firming Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Keeping Up With Kiehl's Holiday Vault Set"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Advanced Night Repair Rescue Solution Serum with 15% Bifidus Ferment"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Hydrating Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Brightening Serum"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Neck Fit Contour Serum"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Polyglutamic Acid Hydrating Serum"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Retinol Face Oil with Vitamin A for Anti-Aging and Brightening"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "Clinical 0.3% Retinol + 2% Bakuchiol Treatment"
+  },
+  {
+    "brand_name": "Hourglass",
+    "product_name": "Equilibrium Resurfacing Retinoid Treatment"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Sound Sleep Cocoon Night Gel-Cream"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Ceramide Hydrating Night Treatment"
+  },
+  {
+    "brand_name": "Tower 28 Beauty",
+    "product_name": "Jumbo SOS Daily Skin Barrier Redness Recovery Moisturizer"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Bio-Active Ceramide Repairing and Plumping Moisturizer + Barrier Strengthening"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Hydrating Dewy Gel Cream Moisturizer with Hyaluronic Acid + Ceramides"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "10 + 10 Moisturizer with 10% Vitamin C + 10% Peptide Complex + Ceramides"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Water Bank Blue Hyaluronic Gel Moisturizer with Mint Extract"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Refillable Jumbo Magic Cream Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Superscreen Rich Hydrating Cream SPF 40 Moisturizer Face Sunscreen"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Mini Turmeric Glow Brightening Moisturizer"
+  },
+  {
+    "brand_name": "DAMDAM",
+    "product_name": "Mochi Mochi Luminous Plumping & Hydrating Moisturizer"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Intensive Moisture Balance Moisturizer"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Broad Spectrum SPF 21 Moisturizer"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "Advanced Retinol Daily Repair Face Moisturizer Broad Spectrum SPF 30"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Super Rich Repair Moisturizer"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "VinoHydra Sorbet Cream Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Extreme Cream Anti-Aging, Firming, & Lifting Refillable Moisturizer"
+  },
+  {
+    "brand_name": "Elemis",
+    "product_name": "Pro-Collagen Anti Aging Marine Cream SPF 30"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Moisturizing Lotion"
+  },
+  {
+    "brand_name": "Element Eight",
+    "product_name": "O2 Peptide Firm Perfect Moisturizer for Wrinkles and Aging Skin"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "The Ultimate S Cream"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Turbo Body Lotion Energizing Gel Moisturizer with Eucalyptus & Aloe"
+  },
+  {
+    "brand_name": "KORRES",
+    "product_name": "Greek Yoghurt Nourishing Probiotic Gel-Cream"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Hydra Vizor Refillable Case"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Face Cream Light"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Clarifying Face Cream"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Cellular Hydration Repair Cream"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Vital Perfection Uplifting and Firming Advanced Cream"
+  },
+  {
+    "brand_name": "GUERLAIN",
+    "product_name": "Abeille Royale Honey Treatment Night Cream with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "R\u00e9nergie Lift Multi-Action Skincare Night Cream"
+  },
+  {
+    "brand_name": "Aestura",
+    "product_name": "ATOBARRIER365 Cream with Ceramides & Niacinamide for Skin Moisture Barrier Repair"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Silk Cream"
+  },
+  {
+    "brand_name": "belif",
+    "product_name": "Aqua Bomb Brightening Vitamin C Cream with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "Goat Milk Moisturizing Cream"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Clinique Smart Clinical\u2122 MD Multi-Dimensional Age Transformer Duo Resculpt + Revolumize"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Hydro UV Defense Sunscreen Broad Spectrum SPF 50+"
+  },
+  {
+    "brand_name": "Kosas",
+    "product_name": "DreamBeam Silicone-Free Mineral Sunscreen SPF 40 with Ceramides and Peptides"
+  },
+  {
+    "brand_name": "Kosas",
+    "product_name": "Mini DreamBeam Silicone-Free Mineral Sunscreen SPF 40 with Ceramides and Peptides"
+  },
+  {
+    "brand_name": "ISDIN",
+    "product_name": "Eryfotona Actinica Ultralight Mineral Sunscreen SPF 50+"
+  },
+  {
+    "brand_name": "CAY SKIN",
+    "product_name": "Mo'Bay Mineral Sunscreen Drops SPF 30"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Banana Bright Mineral Face Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Intense Therapy Lip Balm SPF 25"
+  },
+  {
+    "brand_name": "NARS",
+    "product_name": "Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Superdefense City Block Face Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Mini Glycolic Acid 7% Exfoliating Toner"
+  },
+  {
+    "brand_name": "SOFIE PAVITT FACE",
+    "product_name": "Nice Ice Frozen Toner Pods with Niacinamide to Depuff and Soothe"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Perfectly Clean Multi-Action Toning Lotion/Refiner"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Clarifying Lotion 3"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Acne Solutions\u2122 Clarifying Lotion"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Essential Tonic"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Clarifying Lotion 4"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "RESIST Perfectly Balanced Foaming Cleanser with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Cleanser"
+  },
+  {
+    "brand_name": "SOFIE PAVITT FACE",
+    "product_name": "Clean Clean Gentle Gel Foaming Cleanser"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "Mini EradiKate\u2122 Daily Cleanser with Sulfur Acne Treatment"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoclean Makeup Removing Cleansing Oil"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Rinse-Off Foaming Cleanser"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Electro-Lite Enzyme Brightening Gel Cleanser"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Enzyme Cleanser"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Darker Skin Tones Enzyme Cleanser"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Fresh Pressed Renewing Powder Cleanser with Pure Vitamin C"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Checks and Balances\u2122 Frothy Face Wash"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Perfect Cleansing Oil w/ Grape Seed Oil"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Cherry Dub Superfine Daily Cleansing Face Scrub"
+  },
+  {
+    "brand_name": "Naturally Serious",
+    "product_name": "Lemon-Aid Makeup-Removing Cleansing Gel"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Mini Kombucha Antioxidant Facial Treatment Essence"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Kombucha Antioxidant Facial Treatment Essence"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Minty Mineral Hydration Face Mist with Aloe Vera"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Mini Facial Spray with Aloe Adaptogens, and Coconut Water"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Bouncy Brightfacial Brightening Mask with 10% Azelaic Acid + 1% Salicylic Acid"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Ceramidin\u2122 Cream-Infused Mask"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Resurfacing BHA Mask for Brightening and Dark Spots"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Advanced Night Repair Overnight Skin Treatment"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "Brightening Derm Revival Mask"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoperfect Brightening Dark Spot Serum Vitamin C Alternative"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Caffeine 5% + EGCG Depuffing Eye Serum"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "B3 Nice 10% Niacinamide Serum"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Mini Better Screen\u2122 UV Serum SPF 50+ Facial Sunscreen with Collagen Peptide"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Vitamin C Rose Brightening and Firming Face Oil"
+  },
+  {
+    "brand_name": "MARA",
+    "product_name": "Plankton + PHA\u2122 Flower Acid Algae Serum"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Super Glow Vitamin C Brightening Face Serum"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "D-Bronzi\u2122 Bronzing Drops with Peptides"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Super Pure Clarifying Face Serum with Niacinamide + Zinc"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Potent-C\u2122 Vitamin C Power Serum"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "Pro Collagen Multi-Peptide Booster for Firmer, Smoother Skin"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "T.L.C. Framboos\u2122 Glycolic Resurfacing Night Serum"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Silk Serum Wrinkle-Smoothing Retinol Alternative"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Prejuvenation Firming Bakuchiol Serum for Preventative Aging"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "GinZing\u2122 Into the Glow Brightening Serum"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "Luna Sleeping Retinoid Night Oil"
+  },
+  {
+    "brand_name": "Flora + Bast",
+    "product_name": "Age Adapting CBD Serum"
+  },
+  {
+    "brand_name": "The Nue Co.",
+    "product_name": "Barrier Clear Blemish Treatment"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Protein Booster Skin Serum"
+  },
+  {
+    "brand_name": "Danessa Myricks Beauty",
+    "product_name": "Yummy Skin Mattifying Water Powder Serum with Niacinamide and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Biolumin-C Night Restore Serum with Pro-Vitamin D Complex"
+  },
+  {
+    "brand_name": "MARA",
+    "product_name": "Mini Chlorella + Reishi\u2122 Sea Vitamin C S\u00e9rum"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "The Good C Vitamin C Serum"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Sensitive Skin Treatment Drops Calming Vitamin B Serum"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Benefiance Wrinkle Smoothing Retinol Serum"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Night Serum"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "Mini The Retinol Serum"
+  },
+  {
+    "brand_name": "goop",
+    "product_name": "GOOPGLOW 20% Vitamin C and Hyaluronic Glow Serum"
+  },
+  {
+    "brand_name": "BeautyBio",
+    "product_name": "The Nightly Overnight Retinol Repair + Peptide Anti-Aging Serum"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Calm the Red Down Dual Chamber Redness Treatment Serum"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Pure High-Potency 5.0% Niacinamide Serum"
+  },
+  {
+    "brand_name": "Stripes",
+    "product_name": "Power Move Plumping + Hydrating Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "MARA",
+    "product_name": "Algae + Zinc\u00ae Sea Kale Mineral Sunscreen S\u00e9rum SPF 30"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Refillable Serum with TFC8&reg;"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "100% Niacinamide Powder"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "C-50 Blemish Night Treatment"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "Anti Bac Acne Clearing Lotion"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Rapid Relief Acne Spot Treatment"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Fresh Pressed Daily Booster with Pure Vitamin C 10%"
+  },
+  {
+    "brand_name": "NuFACE",
+    "product_name": "Trinity+\u00ae and Wrinkle Reducer Attachment"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Dr. Andrew Weil for Origins\u2122 Mega-Mushroom Relief & Resilience Soothing Cream"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "VinoHydra Deep Hydration Moisturizer"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Bora Barrier Rich Repair Refillable Cream with 6-Butterlipid Complex"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Mini Water Bank Blue Hyaluronic Intensive Moisturizer with Peptides + Squalane"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Water Bank Blue Hyaluronic Intensive Moisturizer with Peptides + Squalane"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "5% Vitamin C Sheer Facial Moisturizer SPF 50"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "DayWear Anti-Oxidant 24-Hour Moisturizer Cream SPF 15 for Dry Skin"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "DayWear Anti-Oxidant 24-Hour Moisturizer Cream SPF 15 for Normal/Combination Skin"
+  },
+  {
+    "brand_name": "Dieux",
+    "product_name": "Instant Angel Lipid-Rich Barrier Repair Cream with Ceramides"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Ultimate Soothing Cream Refillable Moisturizer"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "Super-C SPF 30 Vitamin C Face Moisturizer"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "Mini Cr\u00e8me de la Mer Moisturizer"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "Confidence in a Gel Cream Oil-Control Face Moisturizer"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Absolue Soft Cream Facial Moisturizer"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Cold Plunge&trade; Pore Remedy Moisturizer with BHA/LHA"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Mini DermInfusions\u2122 Blur + Repair Cream with Hyaluronic Acid and Peptides"
+  },
+  {
+    "brand_name": "Elemis",
+    "product_name": "Mini Pro-Collagen Anti Aging Marine Cream"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Supreme Restructure Collagen-Boosting Cermide Cream"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "Contour Restore&trade; Tightening & Sculpting Moisturizing Face Cream"
+  },
+  {
+    "brand_name": "Elemis",
+    "product_name": "Superfood Overnight Prebiotic Cream"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Benefiance NutriPerfect Night Cream"
+  },
+  {
+    "brand_name": "Aestura",
+    "product_name": "Mini ATOBARRIER365 Cream with Ceramides & Niacinamide for Skin Moisture Barrier Repair"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "SKINPOWER Advanced Airy Cream"
+  },
+  {
+    "brand_name": "NuFACE",
+    "product_name": "NuFACE\u00ae Hydrating Aqua Gel"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Mineral Sun Glow Broad Spectrum Sunscreen SPF 43 PA +++ with Peptides and Vitamin C"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "UV Daily Cream Broad Spectrum SPF 40 Sunscreen"
+  },
+  {
+    "brand_name": "Josie Maran",
+    "product_name": "Argan Sun Milk Mineral Sunscreen Broad Spectrum SPF 33 Moisturizer"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Porescreen SPF 40 Mineral Sunscreen with Niacinamide"
+  },
+  {
+    "brand_name": "ciele",
+    "product_name": "bronze & PROTECT SPF 50+ bronzing concentrate"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "City Skin Age Defense Face Sunscreen Broad Spectrum SPF 50 PA++++"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Pep-Start Daily UV Protector Face Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "Naturally Serious",
+    "product_name": "Mineral Sun Defense Moisturizer Broad Spectrum SPF 30"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "Mini Skin Perfecting 2% BHA Liquid Exfoliant for Clear Skin"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Calendula Herbal Extract Alcohol Free Toner"
+  },
+  {
+    "brand_name": "Moon Juice",
+    "product_name": "Acid Potion AHA + BHA Resurfacing Exfoliator"
+  },
+  {
+    "brand_name": "Dieux",
+    "product_name": "Baptism Gentle Foaming Facial Gel Cleanser with Glycerin"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Oat Makeup Removing Cleansing Balm"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Mini The Cult Classic Purifying Face Cleanser"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Essential-C Foaming Gel Cleanser"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cicapair\u2122 Foaming Face Wash Cleanser"
+  },
+  {
+    "brand_name": "ROSE Ingleton MD",
+    "product_name": "SuperFruit Gentle Brightening Cleanser"
+  },
+  {
+    "brand_name": "belif",
+    "product_name": "Aqua Bomb Hydrating Jelly Cleanser"
+  },
+  {
+    "brand_name": "OUAI",
+    "product_name": "Detox Face Cleanser Cape Town"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Precleanse Cleansing Oil"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "Mini Acne+ 2% BHA + Azelaic Acid + Niacinamide + AHA Cleanser"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "Gentle Hydra-Gel Face Cleanser"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "EradiKate\u2122 3% Sulfur Daily Foaming Cleanser + Acne Treatment"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Clear Improvement&trade; Zero Oil Cleanser With Charcoal"
+  },
+  {
+    "brand_name": "Bobbi Brown",
+    "product_name": "Mini Soothing Cleansing Oil"
+  },
+  {
+    "brand_name": "Tower 28 Beauty",
+    "product_name": "SOS Daily Rescue Facial Spray with Hypochlorous Acid"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "Aging Skin Facial Treatment Essence with Antioxidants"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Fat Water Hydrating Milky Toner Essence with Hyaluronic Acid + Tamarind"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Eudermine Activating Essence with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Iris&Romeo",
+    "product_name": "Mini The Reset Luminous Hyaluronic Acid & Niacinamide Serum Spray"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Soft Clean Infusion Hydrating Treatment Lotion"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Bouncy + Firm Radiance Boosting Sleeping Mask with Peony Collagen Complex"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "VinoHydra Moisturizing Mask"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Goodbye Acne\u2122 Therapeutic Sulfur Mask"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Clear Improvement\u2122 Active Charcoal Face Mask to Clear Pores"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Super Glow Serum with Vitamin C + E"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Gentle Exfoliating Peeling Serum with Niacinamide + Lactic Acid"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Wild Nettle & Niacinamide Instant Firming Serum"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "C-Firma Fresh Vitamin-C Day Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Marine Hyaluronics"
+  },
+  {
+    "brand_name": "MILK MAKEUP",
+    "product_name": "Cooling Water Jelly Ice Soothing Serum Stick with Niacinamide"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "Midnight Ritual Retinol Renewal Serum"
+  },
+  {
+    "brand_name": "goop",
+    "product_name": "Youth Boost Peptide Serum"
+  },
+  {
+    "brand_name": "BeautyBio",
+    "product_name": "GLOfacial Concentrate with Clarifying Salycilic Acid & Plumping Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Mini Genifique Ultimate Serum"
+  },
+  {
+    "brand_name": "Hello Sunday",
+    "product_name": "The Mineral One SPF 50 Hydrating and Luminating Face Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Hydro-Bound Hyaluronic Acid + Niacinamide Serum"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Rapid Dark Spot Correcting Serum"
+  },
+  {
+    "brand_name": "NATASHA DENONA",
+    "product_name": "HY-GEN - Energizing & Hydrating Primer Serum"
+  },
+  {
+    "brand_name": "Algenist",
+    "product_name": "GENIUS Liquid Collagen\u00ae Serum"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Protini&trade; Powerpeptide Resurfacing Serum with Lactic Acid"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "B-Goldi\u2122 Bright Illuminating Drops with 5% Niacinamide"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Bronze Boost Glow Bronzing Drops"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "A-Passioni\u2122 Retinol Cream"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "EradiKate\u2122 Acne Spot Treatment with 10% Sulfur"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Line Smoother Oil-Free Moisturizer"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "100% L-Ascorbic Acid Powder"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Watermelon Pink Juice Oil-Free Refillable Moisturizer"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Honey Halo Moisturizer Jumbo"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Peptide Moisturizer"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Ultra Repair\u00ae Cream Intense Hydration \u2013 Face and Body Moisturizer for Skin Repair"
+  },
+  {
+    "brand_name": "REFY",
+    "product_name": "Face Sculpt Lifting and Hydrating Moisturizer"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Resveratrol Lift Retinol Alternative Firming Cashmere Moisturizer"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Revitalizing Supreme+ Youth Power Creme Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "MILK MAKEUP",
+    "product_name": "Cooling Water Solid Gel Under-Eye Stick with Caffeine"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Benefiance Wrinkle Smoothing Cream Enriched"
+  },
+  {
+    "brand_name": "Dieux",
+    "product_name": "Air Angel Collagen & Peptide Hydrating Gel Cream"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Mini Rose & Hyaluronic Acid Deep Hydration Moisturizer"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Perfecting Moisturizer Broad Spectrum SPF 30 PA+++"
+  },
+  {
+    "brand_name": "Community Sixty-Six",
+    "product_name": "Hydrating Oil-Free Gel Moisturizer"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "After Baume Moisture Barrier Recovery Cream"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Extra-Firming Energy + Radiance Boosting Moisturizer"
+  },
+  {
+    "brand_name": "KORRES",
+    "product_name": "Santorini Grape Poreless Skin Cream"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Virgin Marula Luxury\u00a0 Face Oil"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Super Multi-Corrective Anti-Aging Face and Neck Cream"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Bronze Face Glaze Gel Cream with Squalane, Ceramides & Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Hydra Zen Anti-Stress Moisturizing Face Cream"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Radian-C Cream with Vitamin C"
+  },
+  {
+    "brand_name": "Element Eight",
+    "product_name": "Mini O2 Hyaluronic Acid Hydrate Correct Cream for Dry Skin"
+  },
+  {
+    "brand_name": "Sol de Janeiro",
+    "product_name": "Rio Radiance\u2122 SPF 50 Mineral Body Lotion Sunscreen with Niacinamide"
+  },
+  {
+    "brand_name": "LIGHTSAVER",
+    "product_name": "Shade 0 - Activated Non-Tinted Mineral Face Sunscreen Broad Spectrum - SPF 33"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral Spf 30 Sunscreen"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "Hydrakate Illuminating Sunscreen SPF 50+ Drops with Ectoin"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "SPF Bestsellers Starter Set"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Glow Oil SPF 50 Dry Body Oil Sunscreen"
+  },
+  {
+    "brand_name": "CAY SKIN",
+    "product_name": "Isle Body Oil Sunscreen SPF 30 with Sea Moss and Squalane"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Unseen Lipscreen Sheer SPF 30 Lip Balm"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cicapair \u2122 Tiger Grass Camo Drops Color Corrector SPF 35"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "CC+ Cream Natural Matte Foundation with SPF 40"
+  },
+  {
+    "brand_name": "tarte",
+    "product_name": "Amazonian Clay BB Tinted Moisturizer Broad Spectrum SPF 20 Sunscreen"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Deep Sweep 2% BHA Pore Cleaning Toner with Moringa + Papaya"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Green Tea Enzyme Vitamin C Brightening + Exfoliating Toner Pads"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "Skin Perfecting 6% Mandelic Acid + 2% Lactic Acid Liquid Exfoliant"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Clarifying Toner with Niacinamide and Zinc"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "5% Citrus Fruit & Glycolic Glow Toner"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Soy Hydrating Gentle Face Cleanser"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Turmeric Glow Foaming Cleanser"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Magic Revival Foaming Gentle Cleanser with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Acne Clearing Skin Wash Cleanser"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Soft Clean Moisture Rich Foaming Cleanser"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Vitamin C Lactic Creamy Cleansing Oil"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Deep Cleansing Foam"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Pink Cloud Rosewater + Squalane Makeup Removing Face Wash"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Oil Control Face Wash"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Dr. Andrew Weil for Origins\u2122 Mega-Mushroom Skin Relief Micellar Cleanser"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Hydrating Green Tea Amino Acid Cleansing Oil"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "All About Clean&trade; 2-in-1 Cleansing + Exfoliating Jelly"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "Bye Bye Makeup 3-in-1 Makeup Melting Cleansing Balm"
+  },
+  {
+    "brand_name": "ILIA",
+    "product_name": "The Base Face Milk Essence & Lightweight Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "ILIA",
+    "product_name": "Mini The Base Face Milk Essence & Lightweight Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Dermask\u2122 Wrinkless Solution Face Mask"
+  },
+  {
+    "brand_name": "Benefit Cosmetics",
+    "product_name": "The POREfessional Deep Retreat Pore-Clearing Kaolin Clay Mask"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Overnight Vitalizing Mask"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Rose Deep Hydration Sleeping Mask"
+  },
+  {
+    "brand_name": "Hyper Skin",
+    "product_name": "Fade and Glow AHA Mask"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Salicylic Acid Acne Day Dots"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Microneedling Dark Spot Brightening Dots"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Superfood Skin Drip Smooth + Glow Barrier Serum with Peptides + Niacinamide"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Firm and Lift Hydrating Dual Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Hyaluronic Acid (HA) Hydrating Face Serum"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Advanced Night Repair Multi-Recovery Complex Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "Clinical PRO Retinaldehyde Dual-Retinoid Treatment for Clear, Luminous Skin"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "DermInfusions\u2122 Fill + Repair Serum with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Retinol Fine Lines and Wrinkles Serum"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Avocado Soothing Skin Barrier Serum with Ceramides"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Pro Collagen Banking Serum with Polyglutamic Acid"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Pore Refine Pore Shrinking & Texture Smoothing Serum"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "1% Vitamin A Retinol Serum"
+  },
+  {
+    "brand_name": "Elemis",
+    "product_name": "Pro-Collagen Firming Retinol Alternative Renewal Serum"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Expertly Clear Moisturizer for Acne Prone Skin with Salicylic Acid"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Hello Radiance Illuminating Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F"
+  },
+  {
+    "brand_name": "Saint Jane Beauty",
+    "product_name": "Radiance Refresh Antioxidant Serum"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "Hydration Multiplier Hyaluronic Acid Face Serum with Ceramides"
+  },
+  {
+    "brand_name": "Elemis",
+    "product_name": "Dynamic Resurfacing Vitamin C Dark Spot Serum"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "10% Vitamin C Brightening Serum"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Vitamin C Glycolic Brightening Serum"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Retinol Serum"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Superkind Bio-Barrier Serum for Skin Barrier Repair"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Hyaluronic Dew Drops Hydrating Serum"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Retinol Face Stick"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Even Better Clinical\u2122 Radical Dark Spot Corrector + Interrupter Serum"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Vitamin C Brightening Cream"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Bakuchiol Retinol Alternative Moisturizer"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "CLEAR Daily Skin Clearing Treatment with 2.5% Benzoyl Peroxide"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Honey Halo Ultra-Hydrating Ceramide Moisturizer"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Premium BB Tinted Moisturizer with Niacinamide and SPF 40"
+  },
+  {
+    "brand_name": "Then I Met You",
+    "product_name": "Bong\u00b2 Bounce Cream Moisturizer with Ceramides, Squalane and Vitamin C"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Moisture Surge\u2122 100H Auto-Replenishing Hydrator Gel-Cream Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "MARA",
+    "product_name": "SeaDream Firming Algae Creme Moisturizer with Sea Moss + Peptides"
+  },
+  {
+    "brand_name": "Bobbi Brown",
+    "product_name": "Vitamin Enriched Face Base Moisturizer & Primer with Vitamin C + Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Stabilizing Repair Cream Moisturizer with Squalane and Cica"
+  },
+  {
+    "brand_name": "Josie Maran",
+    "product_name": "Whipped Argan Oil Firming + Hydrating Face Butter Moisturizer"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Active Collagen Wonder Moisturizer"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Weightless Oil-Free Moisturizer"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Hydra Vizor Mineral SPF 30 Refillable Moisturizer"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "+Retinol Vitamin C Moisturizer"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "Secret Sauce Anti-Aging Face Moisturizer"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Moisture Surge\u2122 Intense 72H Lipid-Replenishing Hydrator Moisturizer"
+  },
+  {
+    "brand_name": "goop",
+    "product_name": "GOOPGENES All-In-One Nourishing Face Cream"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Brightening Face Cream"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "24-7 Moisture Intense Ultra Hydrating Day & Night Cream with Hyaluronic Acid + Squalane"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Concentrated Ginseng Renewing Cream Classic"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Nutrient-Charged Water Gel"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "barrier+ Strengthening + Anti-aging Plump + Firm Trio with B-L3\u2122"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Mini Instant Reset Brightening Overnight Recovery Gel-Cream With Niacinamide + Kalahari Melon Oil"
+  },
+  {
+    "brand_name": "Aestura",
+    "product_name": "ATOBARRIER365 Hydro CERA-HA Ceramide + Hyaluronic Acid Face Serum for Skin Moisture Barrier Repair"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Brightening Face Lotion"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Dramatically Different Hydrating Jelly"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Plantscription&trade; Youth-Renewing Power Night Cream"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "R\u00e9nergie H.P.N. 300-Peptide Anti-Aging Cream"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Vital Perfection Uplifting and Firming Cream Day Cream"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Instant Reset Brightening Overnight Recovery Gel-Cream with Niacinamide Refill"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Aloe Vera Gel"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Silk Sunscreen SPF 50 Weightless Mineral Sunscreen"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Every Sun Day\u2122 Mineral Face Sunscreen SPF 50+"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Every Sun Day\u2122 Face Sunscreen SPF 50+"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Multi-Vitamin Clear Coat SPF 50 Sunscreen"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Moisture Surge CC Cream Hydrating Colour Corrector Broad Spectrum SPF 30"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "CC+ Cream Illumination with SPF 50+"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Mini Deep Sweep 2% BHA Pore Cleaning Toner with Moringa + Papaya"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinopure Natural Salicylic Acid Pore Minimizing Toner"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Pore Perfecting Liquid Exfoliator with 2% BHA + Borage"
+  },
+  {
+    "brand_name": "belif",
+    "product_name": "Aqua Bomb Hydrating Toner with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Clarifying Lotion 2"
+  },
+  {
+    "brand_name": "Benefit Cosmetics",
+    "product_name": "The POREfessional Tight \u2019n Toned Pore-Refining AHA+PHA Toner"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Rice Wash Skin-Softening Cleanser"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Superfruit Gentle Exfoliating Cleanser with Vitamin C + Papaya"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Beste\u2122 No. 9 Jelly Cleanser"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Water Bank Gentle Gel Cleanser with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Mini Squalane Cleanser"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Daily Glycolic Cleanser"
+  },
+  {
+    "brand_name": "PHYLA",
+    "product_name": "pH Balancing Gel Cleanser"
+  },
+  {
+    "brand_name": "MARA",
+    "product_name": "Chia + Moringa\u00ae Algae Enzyme Cleansing Oil"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "Facial Treatment Cleanser"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "SuperSolutions 5% Benzoyl Peroxide Cleanser Acne Solution"
+  },
+  {
+    "brand_name": "Hourglass",
+    "product_name": "Equilibrium&trade; Rebalancing Cream Cleanser"
+  },
+  {
+    "brand_name": "Then I Met You",
+    "product_name": "Pore Purifying Soothing Cleansing Gel with Green Tea"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Mini Micellar Cleansing Water with Postbiotics + Niacinamide"
+  },
+  {
+    "brand_name": "belif",
+    "product_name": "Hydrate & Go Kit"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Active Algae Calming Cleansing Balm for Makeup and SPF Removal"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "All About Clean\u2122 Foaming Facial Soap"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Take The Day Off Cleansing Balm Makeup Remover"
+  },
+  {
+    "brand_name": "Benefit Cosmetics",
+    "product_name": "The POREfessional Get Unblocked Makeup-Removing Cleansing Oil"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Barrier Booster Vitamin C Milky Toner Essence with Niacinamide"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoperfect Brightening Glycolic Essence"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Watermelon Glow Ultra-Fine Mist"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "RESIST Barrier Repair Advanced Moisturizer with Ceramides"
+  },
+  {
+    "brand_name": "Iris&Romeo",
+    "product_name": "The Reset Luminous Hyaluronic Acid & Niacinamide Serum Spray"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Treatment Softener"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Ceramidin\u2122 Skin Barrier Moisturizing Mask"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Brightamin Brightening + Plumping Face Mask with Vitamin C"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Booster Face Mask Soothe + Hydrating"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Dermask\u2122 Clearing Solution Face Mask"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "F-Balm&trade; Electrolyte Waterfacial Mask"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cicapair \u2122 Sensitive Skin Serum Face Mask for Redness"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Blue Tansy BHA and Enzyme Pore Refining Mask"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Claycation\u2122 Detoxing & Toning Face Mask Stick"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Irish Moor Mud Purifying Black Mask"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Microneedling Anti-Wrinkle Retinol Patches"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "Brightening & Firming Vitamin-C Serum with Ferulic Acid"
+  },
+  {
+    "brand_name": "SOFIE PAVITT FACE",
+    "product_name": "Mandelic Acid Exfoliating & Clearing Serum"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Tea Elixir Niacinamide & Hyaluronic Acid Anti-Aging Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Niacinamide 5% Face & Body Emulsion"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Elastic Skin Firming & Plumping Vegan Growth Factor Serum with Copper Peptides"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Phyto Nature Firming Serum with Peptides and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Regenerating Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Aloe 2% + NAG 2% Solution"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "10% Waterless Vitamin C Serum"
+  },
+  {
+    "brand_name": "Moon Juice",
+    "product_name": "Plump Jelly Hyaluronic Serum"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Capture Totale Le S\u00e9rum Anti-Aging Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Natural Moisturizing Factors + HA"
+  },
+  {
+    "brand_name": "Naturally Serious",
+    "product_name": "Illumi-nation\u2122 Anti-Fatigue Power Serum"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "Super-C Retinol Brighten & Correct Vitamin C Serum"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Revitalizing Hydrating Serum"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Salicylic Acid Acne Treatment Serum"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Beta Hydroxy Acid (BHA) Blemish + Blackhead Serum"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Even Smoother\u2122 Glycolic Retinol Hydra-Gel Eye Patches"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "10% Niacinamide Booster"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Advanced Retinol + Ferulic Overnight Wrinkle Treatment"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Capture Totale Retishot Retinol Night Treatment"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Lala Retro\u2122 Nourishing Whipped Refillable Moisturizer"
+  },
+  {
+    "brand_name": "PHYLA",
+    "product_name": "Anti-Blemish Moisturizer + 5% Niacinamide"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Natural Moisturizing Factors + Beta Glucan"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Apr\u00e8s Skin Overnight Moisturizer + Mask with Ceramides and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "Mini Confidence in a Cream Hydrating Moisturizer"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Active Moist Moisturizer"
+  },
+  {
+    "brand_name": "Stripes",
+    "product_name": "Dew As I Do Brightening & Hydrating Moisturizer with Ectoine/Squalane + Vitamin C"
+  },
+  {
+    "brand_name": "Community Sixty-Six",
+    "product_name": "Retinol Resurfacing Night Moisturizer"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Hydra Life Fresh Sorbet Cr\u00e8me Moisturizer"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Buttermilk Moisturizer"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Active Algae Lightweight Refillable Moisturizer"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Hydra Zen Gel Cream Soothing Moisturizer"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Water Drench\u00ae Hyaluronic Hydrating Moisturizer SPF 45"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Revitalizing Supreme+ Bright Power Soft Creme Moisturizer With Vitamin C"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Potent-C Brightening Vitamin C Moisturizer"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "Dewy Hydrating Stick"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Benefiance Wrinkle Smoothing Cream"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Face Cream"
+  },
+  {
+    "brand_name": "Sarah Creal",
+    "product_name": "Moisture Source Brightening and Hydrating Essence with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Peptide Skinjection\u2122 Moisture Infusion Refillable Cream"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Immediate Skin Revival Routine Discovery Set"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Bio-Performance Advanced Super Revitalizing Cream"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Post Shave Cooling Gel"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinosun Protect Brightening Daily Mineral Face Sunscreen SPF 50 with Niacinamide"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "100% Mineral (Re)setting Powder Face Sunscreen SPF 35"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Green Defense Daily Mineral Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Mineral Sunscreen Zinc Oxide Broad Spectrum SPF 30"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Dreamskin Fresh & Perfect Refillable Face Cushion SPF 50"
+  },
+  {
+    "brand_name": "COOLA",
+    "product_name": "Refreshing Water Sunscreen Stick SPF 50"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Mini Brighten Up 3% TXA Dark Spot Toner with Azelaic Acid"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Volcanic PHA Pore Refining Toner"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Balancing Force\u2122 Oil Control Toner"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "RESIST Weightless Advanced Repairing Toner"
+  },
+  {
+    "brand_name": "Saint Jane Beauty",
+    "product_name": "Pore Clarity Hyaluronic + Flower Acid Cleanser"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "ExfoliKate\u2122 Cleanser Daily Foaming Wash with AHA & Enzymes"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Triple Action Cleansing Water - Cleanse + Purify"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Sulfate-Free Green Tea Amino Acid Cleansing Foam"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Pure Clean Daily Facial Cleanser"
+  },
+  {
+    "brand_name": "Benefit Cosmetics",
+    "product_name": "The POREfessional Good Cleanup Foaming Cleanser"
+  },
+  {
+    "brand_name": "RANAVAT",
+    "product_name": "Lotus Makeup Removing Cleansing Balm"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Mini Ultra Facial Barrier-Hydrating Cleanser"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "5 Minute Facial for Megawatt Glow"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Extra Rich Cleansing Milk"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Beard Wash"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "It All Starts with Retinol: Shani\u2019s Starter Set"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Cloudberry Bright Essence Toner\u2122"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Super Glow Toner with Vitamins C + E"
+  },
+  {
+    "brand_name": "EADEM",
+    "product_name": "Mami Wata Barrier Strengthening Face Mist with Cica, Panthenol, Ectoin for Sensitive, Irritated Skin"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Beauty Elixir Prep, Set, Glow Face Mist"
+  },
+  {
+    "brand_name": "DAMDAM",
+    "product_name": "Paradisi Hydrating Essence Mist"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "Mini The Treatment Lotion"
+  },
+  {
+    "brand_name": "ILIA",
+    "product_name": "Blue Light Protect + Set Mist"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cryo Rubber\u2122 Brightening Face Mask"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Pore Minimizing Instant Detox Mask"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Watermelon Glow AHA Night Treatment"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Dewtopia 25% AHA + PHA Flash Facial Exfoliating Face Mask"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Honey Potion Plus Ceramide Hydration Mask"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Dermask \u2122 Brightening Solution Face Mask"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Turmeric Brightening Pore Scrub + Exfoliating Mask"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Face Cream Mask"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "White Ginseng Radiance Refining Mask"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Genifique Ultimate Serum"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Premier Cru Anti-Aging Serum with Niacinamide and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "Good Genes All-In-One AHA Lactic Acid Treatment"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "KateCeuticals\u00ae SuperCell Rejuvenation Peptide Serum"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Rose & Squalane Deep Hydration Oil-Infused Serum"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "Peptight &trade; Tightening & Brightening Face Serum"
+  },
+  {
+    "brand_name": "The Outset",
+    "product_name": "Firming & Plumping Vegan Collagen Prep Serum"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "BioLumin-C Vitamin C Serum"
+  },
+  {
+    "brand_name": "REFY",
+    "product_name": "Skin Trio Mineral SPF 50 Moisturizer and Brightening Serum with Squalane"
+  },
+  {
+    "brand_name": "MARA",
+    "product_name": "Chlorella + Reishi\u2122 Sea Vitamin C S\u00e9rum"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Plant Stem Cell Retinol Alternative Firming Serum"
+  },
+  {
+    "brand_name": "Dr. Idriss",
+    "product_name": "Major Fade Hyper Serum Dark Spot Treatment"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "Juno Antioxidant + Superfood Face Oil"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Strawberry Smooth BHA + AHA Salicylic Acid Serum"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Wrinkle Treatment Drops Retinol Alternative Serum"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Lifting Firming Serum"
+  },
+  {
+    "brand_name": "MATTER OF FACT",
+    "product_name": "RESURFACING + HYDRATING Multi-Acid Serum with Salicylic Acid & Niacinamide"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Daily Dose Vitamin C Serum Sunscreen with SPF 40"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Pore Remedy&trade; PHA Exfoliating Serum"
+  },
+  {
+    "brand_name": "Lion Pose",
+    "product_name": "UNSPOTTED 4X Dark Spot + Hyperpigmentation AHA Serum"
+  },
+  {
+    "brand_name": "L'Occitane",
+    "product_name": "Age-Defying Immortelle Reset Oil-in-Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Amino Acids + B5"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Plum Plump Refillable Hyaluronic Acid Moisturizer"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Cream Skin Refillable Toner & Moisturizer with Ceramides and Peptides"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Black Tea Anti-Aging Moisturizer with Retinol-Alternative BT Matrix"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "C-Rush\u2122 Vitamin C Gel Moisturizer"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "Skin Barrier+ Pore Refining Refillable Gel Cream with Niacinamide"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Polypeptide-121 Future Firming + Hydrating Moisturizer"
+  },
+  {
+    "brand_name": "Bobbi Brown",
+    "product_name": "Jumbo Vitamin Enriched Face Base Moisturizer & Primer with Vitamin C + Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Absolue Rich Cream Moisturizer"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Rose & Hyaluronic Acid Lightweight Moisturizer"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Dynamic Skin Recovery Moisturizer Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "UV Expert Defense SPF 50+ Primer & Moisturizer"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Clarifying Pore & Oil Control Moisturizer with BHA for Redness"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Clinique For Men\u2122 Anti-Age Moisturizer"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "eczema+ Dermatitis Ceramide Face + Body Cream"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Face Glaze Skin Barrier Protect & Glow Moisturizer"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Mini Water Bank Blue Hyaluronic Gel Moisturizer with Mint Extract"
+  },
+  {
+    "brand_name": "Saint Jane Beauty",
+    "product_name": "Hydrating Petal Cream - Hyaluronic Acid + Vitamin C Daily Moisturizer"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Vitamin C Lactic Oil-Free Radiant Moisturizer"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Mini Ceramidin\u2122 Skin Barrier Moisturizing Cream"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Radiant SkinTint SPF 30"
+  },
+  {
+    "brand_name": "Naturally Serious",
+    "product_name": "After-Dark Natural Peptide Sleeping Cream"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Oil and Pore Control Mattifying Face Sunscreen SPF 45 PA++++"
+  },
+  {
+    "brand_name": "goop",
+    "product_name": "Goopbeauty 72-Hour Hydrating Supercharged Water-Cream"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Oil-Free Gel Cream"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Super Anti-Aging Night Cream"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Bedtime Bright\u2122 Vita-Charge\u2122 Overnight Brightening Treatment with Niacinamide & Vitamin C"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "R\u00e9nergie H.P.N. 300-Peptide Anti-Aging Cream with SPF 25"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Capture Totale Intensive Night Restorative Cr\u00e8me"
+  },
+  {
+    "brand_name": "Augustinus Bader",
+    "product_name": "The Light Cream"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Advanced Retinol + Ferulic Intense Wrinkle Cream"
+  },
+  {
+    "brand_name": "Hourglass",
+    "product_name": "Equilibrium&trade; Restorative Hydrating Cream"
+  },
+  {
+    "brand_name": "Saie",
+    "product_name": "Slip Tint \u2013 Lightweight Tinted Moisturizer with Mineral Zinc SPF 35 and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Auto-Tone Skin Discoloration Treatment with SPF 30"
+  },
+  {
+    "brand_name": "CAY SKIN",
+    "product_name": "Isle Invisible Sunstick SPF 35"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "RESIST Super-Light Daily Wrinkle Defense Face Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "Hello Sunday",
+    "product_name": "The One For Your Lips SPF 50 Hydrating Lip Balm with Hyaluronic Acid & Squalane"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Correct & Protect Face Sunscreen Broad Spectrum SPF 45 PA++++"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Max Mineral Tinted Sunscreen Broad Spectrum SPF 45"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "(Re) Setting Refreshing Mist Sunscreen SPF 40"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Glowscreen Body Lotion Sunscreen SPF 40"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "100% Mineral Bright-Eyed Eye Cream SPF 40"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Destination Radiant Skincare Gift Set"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Skinperfect Primer SPF 30"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "Skin Perfecting 2% BHA Liquid Exfoliant for Clear Skin"
+  },
+  {
+    "brand_name": "EADEM",
+    "product_name": "Cashmere Peel Gentle AHA + PHA Exfoliating Toner with 9% Lactic, Azelaic, Tranexamic Acids"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "Multi Action Clear Gentle Daily Brightening & Retexturizing Toner for Acne and Breakouts"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Hydrating Toner"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Camellia Oil 2-in-1 Makeup Remover & Cleanser"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Cherry Blossom Glow Jam Cleanser"
+  },
+  {
+    "brand_name": "Dr. Idriss",
+    "product_name": "Soft Wash Jelly Cleanser"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Gentle Jelly Hydrating Cleanser"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Clean Skin Gel Cleanser with Prebiotics"
+  },
+  {
+    "brand_name": "The Outset",
+    "product_name": "Gentle Micellar Antioxidant Cleanser"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Acne Control Clarifying Cleanser"
+  },
+  {
+    "brand_name": "Josie Maran",
+    "product_name": "Pineapple Enzyme Exfoliating + Brightening Foaming Gel Cleanser with AHAs"
+  },
+  {
+    "brand_name": "DAMDAM",
+    "product_name": "Snow Mushroom Pore Cleanser with Exfoliating Glove"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "Cica Water-based Face Cleanser"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Mello Marula Cream Cleanser with 1.0% Colloidal Oatmeal"
+  },
+  {
+    "brand_name": "BeautyBio",
+    "product_name": "The Balance pH Balancing Gel Cleanser with Ginger Root Extract"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Clearly Clean Makeup Removing Cleansing Balm"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Acne Control Clarifying Cream Cleanser"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Barrier-Hydrating Cleanser"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Feel Good In Your Skin Set"
+  },
+  {
+    "brand_name": "EADEM",
+    "product_name": "Dew Dream- Hydrating Makeup Removing Cleansing Balm with Tiger Grass"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Blackhead Solutions Self-heating Blackhead Extractor"
+  },
+  {
+    "brand_name": "Tower 28 Beauty",
+    "product_name": "Mini SOS Daily Rescue Facial Spray with Hypochlorous Acid"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "Jet Lag Skin Soothing Hydration Mist"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Capture Totale Intensive Essence Lotion"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Facial Spray with Aloe Sage & Orange Blossom"
+  },
+  {
+    "brand_name": "Stripes",
+    "product_name": "The Cool Factor Calming Face Mist for Sensitive Skin"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Super Volcanic AHA Pore Clearing Clay Mask"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cryo Rubber\u2122 Firming Face Mask"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Mini Pore Minimizing Instant Detox Mask"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Booster Face Mask Brighten + Glow"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Booster Eye Mask Brightening + Vitamin C"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Clarifying Clay Mask Exfoliating Pore Treatment"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Triple Acid Signature Peel"
+  },
+  {
+    "brand_name": "MARA",
+    "product_name": "Spirulina + Ashwagandha\u2122 Volcanic Sea Clay Detox Masque"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Face Mask"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Umbrian Clay Pore Purifying Face Mask"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Herbal Clay Purifying Mask"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Double Serum Anti-Aging to Firm, Boost Radiance and Refine Pores"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Watermelon Glow Niacinamide Dew Drops Serum"
+  },
+  {
+    "brand_name": "ROSE Ingleton MD",
+    "product_name": "FutureBright Brightening Dark Spot Vitamin C Serum"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Hydrating Serum with Hyaluronic & Polyglutamic Acid"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Lotus AHA Resurfacing Gentle Serum"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Watermelon Glow Niacinamide Hue Drops Serum"
+  },
+  {
+    "brand_name": "Iris&Romeo",
+    "product_name": "Skin Cocoon Barrier Repair Glow Serum with Peptides & Niacinamide"
+  },
+  {
+    "brand_name": "iNNBEAUTY PROJECT",
+    "product_name": "Green Machine Vitamin C Dark Spot & Hyperpigmentation Serum"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "CLINICAL Anti-Aging 1% Retinol Treatment"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Micro-Dose Anti-Aging Retinol Serum with Ceramides and Peptide"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "CC Me Vitamin C + Niacinamide Serum"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Rescue Serum With 10% Azelaic Complex"
+  },
+  {
+    "brand_name": "Naturally Serious",
+    "product_name": "Supercharge Anti-Oxidant Moisture Serum"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Targeted Anti-Aging Bakuchiol Serum"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Clarifique Pro-Solution Brightening & Dark Spot Reducing Serum"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Calming Serum"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "Advanced Retinol Nightly Multi Correct Serum"
+  },
+  {
+    "brand_name": "Gucci",
+    "product_name": "Hydrating Silk Priming Serum"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Retinal + Niacinamide Youth Serum"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "Advanced Retinol + Ferulic Texture Renewal Serum"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "+Retinol Vita C Power Serum"
+  },
+  {
+    "brand_name": "Shani Darden Skin Care",
+    "product_name": "Lactic Acid AHA Exfoliating Serum"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Targeted Wrinkle Corrector"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Instant Pore Perfector"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Tranexamic Acid Hyperpigmentation Treatment"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Concentrated Ginseng Renewing Rescue Ampoule"
+  },
+  {
+    "brand_name": "DIOR",
+    "product_name": "Dreamskin Care & Perfect - For a Skin-Perfecting, Filter Effect"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Ultra Repair Face Moisturizer"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Magic Cream Anti-Aging Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "All Day Hydrator Hyaluronic Acid Moisturizer"
+  },
+  {
+    "brand_name": "Glossier",
+    "product_name": "Priming Moisturizer Rich Face Cream with Ceramides"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Multi-Active Day Moisturizer for Lines, Pores, Glow with Niacinamide"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Vitamin C Rose Brightening Moisturizer"
+  },
+  {
+    "brand_name": "Laura Mercier",
+    "product_name": "Long-Wear Tinted Moisturizer Natural Dewy SPF 30 with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Essential Energy Hydrating Cream"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Mini Charlotte's Magic Cream"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "Mini Cloud Dew Oil-Free Gel Cream"
+  },
+  {
+    "brand_name": "LAWLESS",
+    "product_name": "Forget the Filler Skin-Plumping Line-Smoothing Moisturizer + Makeup Primer"
+  },
+  {
+    "brand_name": "Hello Sunday",
+    "product_name": "The Everyday One SPF 50 Face Sunscreen Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Benefit Cosmetics",
+    "product_name": "The POREfessional Smooth Sip Lightweight Gel-Cream Moisturizer"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Oil Free Moisturizer Broad Spectrum SPF 30"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "A Perfect World\u2122 SPF 40 Age-Defense Moisturizer with White Tea"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Turmeric Glow Brightening Refillable Moisturizer"
+  },
+  {
+    "brand_name": "StriVectin",
+    "product_name": "SD Advanced\u2122 PLUS Intensive Moisturizer for Stretchmarks and Wrinkles"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Magic Water Cream Refillable Gel Moisturizer with Niacinamide"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Mini Revitalizing Supreme+ Youth Power Creme Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "The Outset",
+    "product_name": "Restorative Niacinamide Night Cream"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Benefiance Wrinkle Smoothing Day Cream SPF 23"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Glow Cream"
+  },
+  {
+    "brand_name": "Then I Met You",
+    "product_name": "Renewing Rich Deep Hydration Cream with Ginseng and Squalane"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Seaweed Night Cream"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "DermInfusions\u2122 Blur + Repair Cream with Hyaluronic Acid and Peptides"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "Revitalizing Supreme+ Night Intensive Restorative Cream"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "DeliKate\u2122 Recovery Cream"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "ShadeDrops Mineral Milk Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Clear Sunscreen Stick SPF 50"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Every. Single. Face. Watery Lotion Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Urban Environment Vita-Clear SPF 42 Face Sunscreen with Vitamin C"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Daily Mineral Sunscreen Cream SPF 30"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "Protect + Glow Daily Sunscreen Gel Broad Spectrum SPF 30"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Ultimate Sun Protector Face and BodySpray SPF 40 Sunscreen"
+  },
+  {
+    "brand_name": "Dr. Dennis Gross Skincare",
+    "product_name": "All-Physical Lightweight Wrinkle Defense Broad Spectrum Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Mini (Re) Setting Refreshing Mist SPF 40"
+  },
+  {
+    "brand_name": "Soleil Toujours",
+    "product_name": "Set + Protect Makeup Setting Spray SPF 30 with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Saccharomyces Ferment 30% Milky Toner"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "Tonique Confort Hydrating Facial Toner"
+  },
+  {
+    "brand_name": "belif",
+    "product_name": "Moisturizing Bomb Toner with Ceramide"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Witch Hazel & Lavender Toner"
+  },
+  {
+    "brand_name": "ROSE Ingleton MD",
+    "product_name": "SuperFruit Exfoliating Tonic 8% AHA Solution"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Buffering Lotion"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Hyaluronic Acid Cleanser"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "barrier+ Ceramide + Ectoin Hydrating Gentle Gel Cleanser"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Smoothing Cleanser with AHA + BHA"
+  },
+  {
+    "brand_name": "Summer Fridays",
+    "product_name": "Super Amino Gel Cleanser"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Total Cleans'r Remove-It-All Cleanser with Barbados Cherry"
+  },
+  {
+    "brand_name": "LANEIGE",
+    "product_name": "Water Bank Cleansing Foam"
+  },
+  {
+    "brand_name": "Community Sixty-Six",
+    "product_name": "Hydrating Cream Cleanser with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Community Sixty-Six",
+    "product_name": "Detoxifying AHA/BHA Gel Cleanser"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Melt Awf Jelly Oil Makeup-Melting Cleanser"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Bija Clarifying Salicylic Cleansing Foam"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Indigo Cleansing Balm Moisturizing Makeup Remover"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Daily Microfoliant Refillable Exfoliator"
+  },
+  {
+    "brand_name": "Sunday Riley",
+    "product_name": "Blue Moon Clean-Rinse Cleansing Balm"
+  },
+  {
+    "brand_name": "Farmacy",
+    "product_name": "Brighten Up 3% TXA Dark Spot Toner with Azelaic Acid"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Dr. Andrew Weil for Origins\u2122 Mega-Mushroom Relief & Resilience Soothing Treatment Lotion"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Post-Shave Soother"
+  },
+  {
+    "brand_name": "Aestura",
+    "product_name": "ATOBARRIER365 Cream Mist"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoperfect Brightening Glycolic Peel Mask"
+  },
+  {
+    "brand_name": "Dr. Idriss",
+    "product_name": "Major Fade Dark Spot AHA Face Mask"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Resurfacing Peel Mask"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Rose Face Mask"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "MEGA-C\u2122 30% Vitamin C Brightening Mask"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Super Glow Mask with Vitamins C + E"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Clarifying Peel Off Mask"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "Deep Purifying Mask"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "15% Vitamin C & EGF Brightening Serum"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Charlotte\u2019s Magic Serum with Vitamin C"
+  },
+  {
+    "brand_name": "Skinfix",
+    "product_name": "barrier+ Triple Lipid + Niacinamide Activating Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Salicylic Acid 2% Anhydrous Solution Pore Clearing Serum"
+  },
+  {
+    "brand_name": "Elemis",
+    "product_name": "Pro Collagen Future Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Alpha Arbutin 2% + HA Hyperpigmentation Serum"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Matrixyl* 10% + HA"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Green Tea Caffeine Bright-Eye Serum with Niacinamide"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Cellular Hydration Repair Serum"
+  },
+  {
+    "brand_name": "BeautyBio",
+    "product_name": "GLOfacial Firming Collagen Concentrate & Smoothing Peptide Solution"
+  },
+  {
+    "brand_name": "KORA Organics",
+    "product_name": "Silky Sun Drops Organic Sunscreen Serum with SPF 30 for Skin Barrier Repair"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Blackberry Retinol Blemish Serum"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "CLINICAL Niacinamide 20% Treatment"
+  },
+  {
+    "brand_name": "RANAVAT",
+    "product_name": "Radiant Rani- Saffron Brightening Dark Spot Treatment"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Targeted Dark Spots Serum with Enzymes"
+  },
+  {
+    "brand_name": "SK-II",
+    "product_name": "GenOptics Ultraura Essence Serum"
+  },
+  {
+    "brand_name": "Hyper Skin",
+    "product_name": "Brightening Dark Spot Vitamin C Serum"
+  },
+  {
+    "brand_name": "Lanc\u00f4me",
+    "product_name": "R\u00e9nergie H.C.F. Triple Serum: For Plumping & Anti-Aging"
+  },
+  {
+    "brand_name": "EADEM",
+    "product_name": "Milk Marvel Dark Spot Serum with Niacinamide and Vitamin C"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "The Better B Niacinamide Serum"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "SuperSolutions 10% Azelaic Serum Redness Relief Solution"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Watch Ya Tone 5% Niacinamide Dark Spot Serum with Vitamin C"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Instant FIRMx\u00ae Temporary Face Tightener"
+  },
+  {
+    "brand_name": "ALPYN",
+    "product_name": "Clarifying Facial Oil with Retinol & Pink Algae"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Pycnogenol 5%"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Glow Drops"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Resveratrol 3% + Ferulic Acid 3%"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Vital Perfection Intensive WrinkleSpot Treatment"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Dr. Andrew Weil for Origins\u2122 Mega-Mushroom Relief & Resilience Fortifying Emulsion"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "The Water Cream Oil-Free Pore Minimizing Refillable Moisturizer"
+  },
+  {
+    "brand_name": "Youth To The People",
+    "product_name": "Superfood Air-Whip Lightweight Face Moisturizer with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "Protini&trade; Polypeptide Firming Refillable Moisturizer"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Essential Comfort Firming Cream"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Probiotic Balancing Gel Moisturizer"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Resveratrol Lift Retinol Alternative Firming Night Moisturizer"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Moisture Surge\u2122 Broad Spectrum Sunscreen SPF 28 Sheer Hydrator Moisturizer"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "CLEAR Oil-Free Moisturizer"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "Clean Break&trade; Oil-Free Moisturizer"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "Confidence in a Cream\u00ae Barrier Boost Skin Repair Daily Moisturizer"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Cicapair\u2122 Cooling Gel Moisturizer for Redness"
+  },
+  {
+    "brand_name": "Danessa Myricks Beauty",
+    "product_name": "Yummy Skin Moisture Repair Balm Serum with Hyaluronic Acid and Squalane"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Moisturizing Fresh Cream"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Face Cream Rich"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Firming Cream with Peptides, Niacinamide + Collagen"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "Cr\u00e8me de la Mer Moisturizer"
+  },
+  {
+    "brand_name": "TULA Skincare",
+    "product_name": "24-7 Moisture Hydrating Day & Night Cream"
+  },
+  {
+    "brand_name": "Aestura",
+    "product_name": "ATOBARRIER365 Lightweight Face Lotion with Ceramides & Niacinamide for Skin Moisture Barrier Repair"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Prejuvenation Firming Bakuchiol Cream for Preventative Aging"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Mini Essential Comfort Firming Cream"
+  },
+  {
+    "brand_name": "Element Eight",
+    "product_name": "O2 Squalane Protect Cream for Redness & Barrier Repair"
+  },
+  {
+    "brand_name": "Elemis",
+    "product_name": "Pro-Collagen Anti Aging Marine Cream"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoperfect Brightening Glycolic Night Cream"
+  },
+  {
+    "brand_name": "KORRES",
+    "product_name": "Santorini Grape Velvet Skin Drink"
+  },
+  {
+    "brand_name": "tarte",
+    "product_name": "Maracuja Oil"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Zinc Sheer Hydrating Mineral Face Sunscreen SPF 30 with Ectoin"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Weightless Liquid Mineral Sunscreen with Zinc Oxide SPF 30"
+  },
+  {
+    "brand_name": "Sol de Janeiro",
+    "product_name": "Rio Radiance\u2122 SPF 50 Body Spray Sunscreen with Niacinamide"
+  },
+  {
+    "brand_name": "Saie",
+    "product_name": "Sunvisor Radiant Moisturizing Face Sunscreen SPF 35"
+  },
+  {
+    "brand_name": "Sol de Janeiro",
+    "product_name": "Rio Radiance\u2122 SPF 50 Shimmering Body Oil Sunscreen"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "Nudescreen SPF 30 Lip Balm"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Daily Glow Toner with Niacinamide"
+  },
+  {
+    "brand_name": "GUERLAIN",
+    "product_name": "Abeille Royale Anti-Aging Fortifying Lotion Toner"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Exfoliating Tonic"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "Mini Rice Wash Skin-Softening Cleanser"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "AHA/BHA Exfoliating Cleanser"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Cherry Dub Pore Purify\u2019r Gel Cleanser"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Papaya Sorbet Smoothing Enzyme Cleansing Balm & Makeup Remover"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Truth Juice\u2122 Gentle Glow Daily Cleanser"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Deep Exfoliating Cleanser"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "Goat Milk Moisturizing Cleanser"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Superkind Foaming Softening Cleanser for Barrier Support"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Regenerating BHA Exfoliating Cleanser"
+  },
+  {
+    "brand_name": "Kate Somerville",
+    "product_name": "DeliKate\u2122 Soothing Cleanser"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Best + Brightest Mini Skincare Starter Set"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Water Drench&reg; Hyaluronic Cloud Makeup Removing Gel Cleanser"
+  },
+  {
+    "brand_name": "Community Sixty-Six",
+    "product_name": "Makeup Melting Balm Cleanser"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoclean Cleansing Micellar Water"
+  },
+  {
+    "brand_name": "Biossance",
+    "product_name": "Squalane + Antioxidant Makeup Removing Cleansing Oil"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Charcoal Face Wash"
+  },
+  {
+    "brand_name": "SEPHORA COLLECTION",
+    "product_name": "Melting Cleansing Balm with Algae Extract"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Daily Brightness Boosters Kit"
+  },
+  {
+    "brand_name": "Jack Black",
+    "product_name": "All-Over Wash For Face, Hair & Body"
+  },
+  {
+    "brand_name": "Bobbi Brown",
+    "product_name": "Soothing Cleansing Oil"
+  },
+  {
+    "brand_name": "Drunk Elephant",
+    "product_name": "JuJu Exfoliating Bar"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Renewing Cleansing Cream"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Enzyme Cleansing Gel"
+  },
+  {
+    "brand_name": "NUDESTIX",
+    "product_name": "NUDESKIN Citrus Clean Balm & Make-Up Melt"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Facial Spray with Aloe, Herbs and Rosewater"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Essential Comfort Balancing Water"
+  },
+  {
+    "brand_name": "Hourglass",
+    "product_name": "Equilibrium&trade; Restoring Essence"
+  },
+  {
+    "brand_name": "Tatcha",
+    "product_name": "Luminous Dewy Skin Mist 2-in-1 Hydrator & Finishing Spray"
+  },
+  {
+    "brand_name": "Fenty Beauty by Rihanna",
+    "product_name": "Cookies N Clean Whipped Clay Pore Detox Face Mask with Salicylic Acid + Charcoal"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Salicylic Acid 2% Masque"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Peptide Skinjection Hydra-Gel Patches"
+  },
+  {
+    "brand_name": "KORRES",
+    "product_name": "Greek Yoghurt Probiotic Superdose Face Mask"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinopure Purifying Clay Mask"
+  },
+  {
+    "brand_name": "Peace Out",
+    "product_name": "Acne Salicylic Acid Day & Night Duo"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Clarifying Mask"
+  },
+  {
+    "brand_name": "Glow Recipe",
+    "product_name": "Mini Watermelon Glow Niacinamide Dew Drops"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "VinoHydra Hydrating Hyaluronic Serum"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "First Care Activating Serum for Anti-Aging"
+  },
+  {
+    "brand_name": "innisfree",
+    "product_name": "Green Tea Hyaluronic Acid Refillable Serum"
+  },
+  {
+    "brand_name": "Clarins",
+    "product_name": "Double Serum Light Texture Firming & Smoothing Anti-Aging Concentrate"
+  },
+  {
+    "brand_name": "Topicals",
+    "product_name": "Faded Serum for Dark Spots & Discoloration"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Multi-Peptide + HA Serum"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Brightamin Brightening Serum with Niacinamide and Vitamin C"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "0.3% Retinol Complex Serum with Peptides"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Ultracalming Serum Concentrate"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Q10 Antioxidant Serum"
+  },
+  {
+    "brand_name": "RANAVAT",
+    "product_name": "Mini Radiant Rani- Saffron Brightening Dark Spot Treatment"
+  },
+  {
+    "brand_name": "The Ordinary",
+    "product_name": "Mini Natural Moisturizing Factors + HA"
+  },
+  {
+    "brand_name": "BeautyBio",
+    "product_name": "The Daily Acid-Free Vitamin C Brightening Serum"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "SuperSolutions 1% Retinol Serum"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Clarifying Serum"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Powerful-Strength Dark Circle Reducing Vitamin C Eye Serum"
+  },
+  {
+    "brand_name": "Westman Atelier",
+    "product_name": "Skin Activator Serum with Hyaluronic Acid + Niacinamide"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Super Spot Remover\u2122 Acne Treatment Gel with Salicylic Acid"
+  },
+  {
+    "brand_name": "Murad",
+    "product_name": "Retinal ReSculpt Overnight Treatment"
+  },
+  {
+    "brand_name": "Naturally Serious",
+    "product_name": "Sleepover Retin-Oil Nighttime Treatment"
+  },
+  {
+    "brand_name": "Westman Atelier",
+    "product_name": "Liquid Super Loaded All-Over Illuminator Drops with Vitamin C"
+  },
+  {
+    "brand_name": "OLEHENRIKSEN",
+    "product_name": "Strength Trainer Skin Barrier Moisturizer with Peptides and Niacinamide"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Rose & Hyaluronic Acid Deep Hydration Moisturizer"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Vitamin B, C, and E Moisturizer"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoperfect Instant Brightening Moisturizer with Niacinamide"
+  },
+  {
+    "brand_name": "Topicals",
+    "product_name": "Like Butter Moisturizer for Dry, Sensitive & Eczema-Prone Skin"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Water-Lock Refillable Moisturizer with Skin-Smoothing Peptides & Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Dr. Jart+",
+    "product_name": "Teatreement\u2122 Moisturizer"
+  },
+  {
+    "brand_name": "BeautyBio",
+    "product_name": "The Quench Rapid Recovery Facial Moisturizer with Barrier-Restoring Ceramides"
+  },
+  {
+    "brand_name": "Est\u00e9e Lauder",
+    "product_name": "DayWear Matte Oil-Control Anti-Oxidant Moisturizer Gel Creme"
+  },
+  {
+    "brand_name": "Dermalogica",
+    "product_name": "Skin Smoothing Cream Moisturizer"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Moisture Surge\u2122 Sheertint Hydrator Broad Spectrum SPF 25 Tinted Moisturizer"
+  },
+  {
+    "brand_name": "CLINIQUE",
+    "product_name": "Dramatically Different Moisturizing Gel"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Pink Cloud Soft Moisture Cream"
+  },
+  {
+    "brand_name": "Josie Maran",
+    "product_name": "PINK ALGAE PRO-RETINOL ANTI-AGING MOISTURIZER"
+  },
+  {
+    "brand_name": "Peter Thomas Roth",
+    "product_name": "Water Drench&reg; Hyaluronic Cloud Rich Barrier Moisturizer"
+  },
+  {
+    "brand_name": "Tata Harper",
+    "product_name": "Superkind Fortifying Moisturizer for Skin Barrier Repair with Peptides and Hyaluronic Acid"
+  },
+  {
+    "brand_name": "First Aid Beauty",
+    "product_name": "Ultra Repair Rescue Skin Barrier Balm"
+  },
+  {
+    "brand_name": "fresh",
+    "product_name": "Black Tea Corset Cream Firming Moisturizer"
+  },
+  {
+    "brand_name": "Dr. Barbara Sturm",
+    "product_name": "Super Anti-Aging Face Cream"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Midnight Recovery Omega-Rich Cloud Cream"
+  },
+  {
+    "brand_name": "Sulwhasoo",
+    "product_name": "Concentrated Ginseng Renewing Cream for Anti-Aging"
+  },
+  {
+    "brand_name": "Kiehl's Since 1851",
+    "product_name": "Ultra Facial Skin Barrier Repair Balm with Squalane"
+  },
+  {
+    "brand_name": "Aestura",
+    "product_name": "ATOBARRIER365 Hydro Essence with Hydrating Amino Acids for Skin Moisture Barrier Repair"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "Mini The Moisturizing Fresh Cream"
+  },
+  {
+    "brand_name": "FaceGym",
+    "product_name": "Liftwear Brightening Vitamin C Gel-Cream"
+  },
+  {
+    "brand_name": "MATTER OF FACT",
+    "product_name": "WRINKLE + TEXTURE CONCENTRATE with 0.2% Encapsulated Retinol, Vitamin C & Azelaic Acid"
+  },
+  {
+    "brand_name": "GUERLAIN",
+    "product_name": "Abeille Royale Anti-Dark Spot Cream"
+  },
+  {
+    "brand_name": "BeautyBio",
+    "product_name": "The ZenBubble Oil-Free Calming Gel Cream with Soothing Cica & Marine Actives"
+  },
+  {
+    "brand_name": "Mario Badescu",
+    "product_name": "Hyaluronic Dew Cream"
+  },
+  {
+    "brand_name": "Origins",
+    "product_name": "Dr. Andrew Weil for Origins\u2122 Mega-Mushroom Relief & Resilience Hydra Burst Gel Lotion"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Urban Environment Fresh-Moisture Sunscreen Broad-Spectrum SPF 42 with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Herbivore",
+    "product_name": "Star Seed Silicone-Free 100% Mineral Facial Sunscreen SPF 30 with Vitamin C + Prebiotics"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Mini Mineral Mattescreen Sunscreen SPF 40"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "100% Mineral Mattescreen Sunscreen SPF 40"
+  },
+  {
+    "brand_name": "Soleil Toujours",
+    "product_name": "Face Glow Tinted Moisturizer Mineral SPF 50 with Vitamin C"
+  },
+  {
+    "brand_name": "Lion Pose",
+    "product_name": "Ghost-Buster 100% Mineral Sunscreen SPF 42 with Super Zinc for No White-Cast"
+  },
+  {
+    "brand_name": "La Mer",
+    "product_name": "The Broad Spectrum Face Sunscreen SPF 50"
+  },
+  {
+    "brand_name": "Shiseido",
+    "product_name": "Urban Environment Oil-Free SPF 42 Face Sunscreen w/ Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Supergoop!",
+    "product_name": "Play! 100% Mineral SPF Sunscreen Stick"
+  },
+  {
+    "brand_name": "Saint Jane Beauty",
+    "product_name": "Body Ritual Hydrating Mineral Sunscreen SPF 30"
+  },
+  {
+    "brand_name": "Soleil Toujours",
+    "product_name": "Daily Defense Mineral Body Lotion SPF 30"
+  },
+  {
+    "brand_name": "IT Cosmetics",
+    "product_name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide"
+  },
+  {
+    "brand_name": "Paula's Choice",
+    "product_name": "RESIST Advanced Replenishing Toner with Hyaluronic Acid"
+  },
+  {
+    "brand_name": "Caudalie",
+    "product_name": "Vinoclean Moisturizing Toner with Rose Water"
+  },
+  {
+    "brand_name": "The INKEY List",
+    "product_name": "Glycolic Acid Exfoliating Toner"
+  }
+]
