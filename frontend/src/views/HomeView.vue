@@ -243,7 +243,7 @@ export default defineComponent({
       { label: "Moisturizers", value: "moisturizers" },
       { label: "Sunscreen", value: "sunscreen" },
       { label: "Toners", value: "toners" },
-      { label: "Essense", value: "essense" },
+      { label: "Essence", value: "essense" },
       { label: "Face Masks", value: "face_mask" },
       { label: "Cleansers", value: "cleansers" },
       { label: "Face Serums", value: "face_serums" },
