@@ -8,6 +8,8 @@ from fastapi.middleware.cors import CORSMiddleware
 import json
 from fastapi.responses import JSONResponse
 from collections import defaultdict
+import os
+import json
 # Function to generate product recommendations
 import numpy as np
 from scipy.sparse import csr_matrix
@@ -42,7 +44,13 @@ class RecommendationRequest(BaseModel):
 
 def map_product_name_to_ID(original_ratings: List[RatingInputWithName]):
     conn = duckdb.connect() 
-    product_data = '../../../data/parquet_files/products_data.parquet' 
+    product_data = '../products_data.parquet'
+    if 'RENDER' in os.environ:
+        # Running on Render
+        product_data = '/opt/render/project/src/backend/products_data.parquet'
+    else:
+        # Running locally
+        product_data = '../products_data.parquet' 
 
     return_ids = []
     for rating in original_ratings:
@@ -81,7 +89,14 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
     Returns:
     - recommendations (list): A list of product IDs recommended to the user.
     """
-    try: 
+    try:
+        product_data = '../products_data.parquet'
+        if 'RENDER' in os.environ:
+            # Running on Render
+            product_data = '/opt/render/project/src/backend/products_data.parquet'
+        else:
+            # Running locally
+            product_data = '../products_data.parquet'  
         conn = duckdb.connect()
 
         # Load the trained model from a file
@@ -89,8 +104,6 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
 
         # Load the dataset object (contains the mappings) from a file
         dataset = joblib.load('../models/lightfm_dataset.pkl')
-
-        product_data = '../../../data/parquet_files/products_data.parquet'
 
         _, _, item_id_map, _ = dataset.mapping()
         index_to_item_id = {v: k for k, v in item_id_map.items()}
@@ -152,13 +165,13 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
 
         if recommended_ids:
             placeholders = ",".join([f"'{pid}'" for pid in recommended_ids[:50]])
-   
+            print("here")
             query = f"""
                 SELECT * FROM '{product_data}'
                 WHERE product_id IN ({placeholders})
             """
             enriched_recommendations = conn.execute(query).df()
-            
+            print("here2") 
             # Ensure DataFrame is serializable
             enriched_recommendations = enriched_recommendations.to_dict(orient='records')
             
@@ -195,15 +208,20 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
         return final_recommendations
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
-    
+
+
 
 @app.get("/get-products")
 async def get_products():
     try:
-        with open("../products.json", "r") as file:
-            data = json.load(file)
-        
-        # Concatenate brand and product name
+        if 'RENDER' in os.environ:
+            # Running on Render
+            json_path = '/opt/render/project/src/backend/products.json'
+        else:
+            # Running locally
+            json_path = '../products.json'
+        with open(json_path) as f:
+            data = json.load(f) 
         product_names = [
             f"{item['brand_name']} - {item['product_name']}"
             for item in data

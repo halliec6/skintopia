@@ -12,3 +12,5 @@ uvicorn
 axios
 joblib
 scikit-surprise
+os
+json
