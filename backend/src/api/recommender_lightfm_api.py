@@ -47,7 +47,7 @@ def map_product_name_to_ID(original_ratings: List[RatingInputWithName]):
     product_data = '../products_data.parquet'
     if 'RENDER' in os.environ:
         # Running on Render
-        product_data = '/opt/render/project/src/backend/products_data.parquet'
+        product_data = '/backend/products_data.parquet'
     else:
         # Running locally
         product_data = '../products_data.parquet' 
@@ -93,7 +93,7 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
         product_data = '../products_data.parquet'
         if 'RENDER' in os.environ:
             # Running on Render
-            product_data = '/skintopia-test/backend/products_data.parquet'
+            product_data = '/backend/products_data.parquet'
         else:
             # Running locally
             product_data = '../products_data.parquet'  
