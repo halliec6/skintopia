@@ -47,7 +47,7 @@ def map_product_name_to_ID(original_ratings: List[RatingInputWithName]):
     product_data = '../products_data.parquet'
     if 'RENDER' in os.environ:
     # Running on Render
-        product_data = os.path.join(os.getcwd(), 'backend/src', 'products.json')
+        product_data = os.path.join(os.getcwd(), 'backend', 'products.json')
     else:
         # Running locally
         product_data = os.path.join(os.path.dirname(__file__), '..', 'products.json')
@@ -90,11 +90,9 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
     - recommendations (list): A list of product IDs recommended to the user.
     """
     try:
-        product_data = '../products_data.parquet'
-        product_data = '../products_data.parquet'
         if 'RENDER' in os.environ:
         # Running on Render
-            product_data = os.path.join(os.getcwd(), 'backend/src', 'products_data.parquet')
+            product_data = os.path.join(os.getcwd(), 'backend', 'products_data.parquet')
         else:
             # Running locally
             product_data = os.path.join(os.path.dirname(__file__), '..', 'products_data.parquet')
