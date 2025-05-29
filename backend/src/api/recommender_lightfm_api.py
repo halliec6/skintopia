@@ -170,30 +170,6 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
         else:
             print("No recommendations.")
 
-    
-        # Return the top N recommended products
-        # Filter out based on type of products
-        # remove duplicates
-        # Filter and deduplicate enriched_recommendations by product_id (keep first)
-        # Only one product per category type
-        # user_categories = request.product_category
-
-        # unique_recs = {}
-        # for rec in enriched_recommendations:
-        #     if rec["category"] in user_categories:
-        #         if rec["product_id"] not in unique_recs:
-        #             unique_recs[rec["product_id"]] = rec
-
-        # filtered = list(unique_recs.values())
-
-        # for rec in filtered:
-        #     print("FILTERED PRODUCT:", rec["product_name"], rec["product_id"])
-
-        # # Should match the number of categories
-        # print("LENGTH OF FILTERED PRODUCTS:", len(filtered))
-
-        # return filtered[:N]
-
         category_to_products = defaultdict(list)
         for rec in enriched_recommendations:
             if rec["category"] in request.product_category:
