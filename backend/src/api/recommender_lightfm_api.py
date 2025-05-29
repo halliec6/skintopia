@@ -47,10 +47,10 @@ def map_product_name_to_ID(original_ratings: List[RatingInputWithName]):
     product_data = '../products_data.parquet'
     if 'RENDER' in os.environ:
     # Running on Render
-        product_data = os.path.join(os.getcwd(), 'backend', 'products_data.parquet')
+        product_data = os.path.join(os.getcwd(), 'backend', 'products.json')
     else:
         # Running locally
-        product_data = os.path.join(os.path.dirname(__file__), '..', 'products_data.parquet')
+        product_data = os.path.join(os.path.dirname(__file__), '..', 'products.json')
 
     return_ids = []
     for rating in original_ratings:
@@ -98,7 +98,7 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
         else:
             # Running locally
             product_data = os.path.join(os.path.dirname(__file__), '..', 'products_data.parquet')
-            
+
         conn = duckdb.connect()
 
         # Load the trained model from a file
