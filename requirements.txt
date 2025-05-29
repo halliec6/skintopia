@@ -1,0 +1,15 @@
+requests
+supabase
+dotenv
+duckdb
+numpy<2
+pyarrow
+polars
+lightfm
+pandas
+surprise
+fastapi
+uvicorn
+axios
+joblib
+scikit-surprise

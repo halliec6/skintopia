@@ -5,7 +5,7 @@
         <div class="logo">Skintopia</div>
         <div>
           <a
-            href="https://github.com/0felicia0/BeautyRecommender/tree/23dcecf19d9582e10f8e184c49504ce1793d7342"
+            href="https://github.com/halliec6/skintopia-test"
             target="_blank"
             rel="noopener"
             class="nav-link github-link"
