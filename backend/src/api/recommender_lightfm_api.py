@@ -93,7 +93,7 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
         product_data = '../products_data.parquet'
         if 'RENDER' in os.environ:
             # Running on Render
-            product_data = '/opt/render/project/src/backend/products_data.parquet'
+            product_data = '/skintopia-test/backend/products_data.parquet'
         else:
             # Running locally
             product_data = '../products_data.parquet'  
@@ -216,7 +216,7 @@ async def get_products():
     try:
         if 'RENDER' in os.environ:
             # Running on Render
-            json_path = '/opt/render/project/src/backend/products.json'
+            json_path = '/skintopia-test/backend/products.json'
         else:
             # Running locally
             json_path = '../products.json'
