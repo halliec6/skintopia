@@ -12,5 +12,3 @@ uvicorn
 axios
 joblib
 scikit-surprise
---find-links wheels
-lightfm
