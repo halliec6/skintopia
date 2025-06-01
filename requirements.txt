@@ -12,3 +12,4 @@ uvicorn
 axios
 joblib
 scikit-surprise
+lightfm
