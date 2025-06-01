@@ -251,7 +251,9 @@ export default defineComponent({
 
     const fetchProductNames = async () => {
       try {
-        const response = await axios.get("https://skintopia-test.onrender.com/get-products");
+        const response = await axios.get(
+          "https://skintopia-test.onrender.com/get-products"
+        );
         productNames.value = response.data.product_names;
       } catch (error) {
         console.error("Error fetching product names:", error);
