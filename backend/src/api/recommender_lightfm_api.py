@@ -44,13 +44,11 @@ class RecommendationRequest(BaseModel):
 
 def map_product_name_to_ID(original_ratings: List[RatingInputWithName]):
     conn = duckdb.connect() 
-    product_data = '../products_data.parquet'
-    if 'RENDER' in os.environ:
-    # Running on Render
-        product_data = os.path.join(os.getcwd(), 'backend', 'products.json')
-    else:
-        # Running locally
-        product_data = os.path.join(os.path.dirname(__file__), '..', 'products.json')
+    # product_data = '../data/products_data.parquet'
+
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    json_path = os.path.join(base_dir, '..', 'data', 'products_data.parquet')
+    product_data = os.path.normpath(json_path)  # Clean up the path
 
     return_ids = []
     for rating in original_ratings:
@@ -90,20 +88,21 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
     - recommendations (list): A list of product IDs recommended to the user.
     """
     try:
-        if 'RENDER' in os.environ:
-        # Running on Render
-            product_data = os.path.join(os.getcwd(), 'backend', 'products_data.parquet')
-        else:
-            # Running locally
-            product_data = os.path.join(os.path.dirname(__file__), '..', 'products_data.parquet')
-
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        json_path = os.path.join(base_dir, '..', 'data', 'products_data.parquet')
+        product_data = os.path.normpath(json_path)  # Clean up the path
+        # product_data = '../data/products_data.parquet'
         conn = duckdb.connect()
 
         # Load the trained model from a file
-        model = joblib.load('../models/lightfm_model.pkl')
+        json_path = os.path.join(base_dir, '..', 'models', 'lightfm_model.pkl')
+        model_path = os.path.normpath(json_path)  # Clean up the path 
+        model = joblib.load(model_path)
 
+        json_path = os.path.join(base_dir, '..', 'models', 'lightfm_dataset.pkl')
+        dataset_path = os.path.normpath(json_path)  # Clean up the path 
         # Load the dataset object (contains the mappings) from a file
-        dataset = joblib.load('../models/lightfm_dataset.pkl')
+        dataset = joblib.load(dataset_path)
 
         _, _, item_id_map, _ = dataset.mapping()
         index_to_item_id = {v: k for k, v in item_id_map.items()}
@@ -214,12 +213,10 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
 @app.get("/get-products")
 async def get_products():
     try:
-        if 'RENDER' in os.environ:
-            # Running on Render
-            json_path = '/skintopia-test/backend/products.json'
-        else:
-            # Running locally
-            json_path = '../products.json'
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        json_path = os.path.join(base_dir, '..', 'data', 'products.json')
+        json_path = os.path.normpath(json_path)  # Clean up the path
+        # json_path = '../data/products.json'
         with open(json_path) as f:
             data = json.load(f) 
         product_names = [
