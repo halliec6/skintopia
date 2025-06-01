@@ -44,7 +44,6 @@ class RecommendationRequest(BaseModel):
 
 def map_product_name_to_ID(original_ratings: List[RatingInputWithName]):
     conn = duckdb.connect() 
-    # product_data = '../data/products_data.parquet'
 
     base_dir = os.path.dirname(os.path.abspath(__file__))
     json_path = os.path.join(base_dir, '..', 'data', 'products_data.parquet')
@@ -91,7 +90,6 @@ def recommend_products_from_request(request: RecommendationRequest, N=5):
         base_dir = os.path.dirname(os.path.abspath(__file__))
         json_path = os.path.join(base_dir, '..', 'data', 'products_data.parquet')
         product_data = os.path.normpath(json_path)  # Clean up the path
-        # product_data = '../data/products_data.parquet'
         conn = duckdb.connect()
 
         # Load the trained model from a file

@@ -251,7 +251,7 @@ export default defineComponent({
 
     const fetchProductNames = async () => {
       try {
-        const response = await axios.get("http://localhost:8000/get-products");
+        const response = await axios.get("https://skintopia-test.onrender.com/get-products");
         productNames.value = response.data.product_names;
       } catch (error) {
         console.error("Error fetching product names:", error);
@@ -297,7 +297,7 @@ export default defineComponent({
         console.log("PAYLOAD:", payload);
 
         const response = await axios.post(
-          "http://localhost:8000/recommend_lightfm",
+          "https://skintopia-test.onrender.com/recommend_lightfm",
           payload
         );
         console.log("RESPONSE", response.data);
