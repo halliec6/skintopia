@@ -12,5 +12,4 @@ uvicorn
 axios
 joblib
 scikit-surprise
---no-build-isolation
-lightfm
+lightfm==1.16
