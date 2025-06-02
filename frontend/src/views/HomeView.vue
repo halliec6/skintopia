@@ -252,7 +252,7 @@ export default defineComponent({
     const fetchProductNames = async () => {
       try {
         const response = await axios.get(
-          "https://skintopia-test.onrender.com/get-products"
+          "https://skintopia.onrender.com/get-products"
         );
         productNames.value = response.data.product_names;
       } catch (error) {
@@ -299,7 +299,7 @@ export default defineComponent({
         console.log("PAYLOAD:", payload);
 
         const response = await axios.post(
-          "https://skintopia-test.onrender.com/recommend_lightfm",
+          "https://skintopia.onrender.com/recommend_lightfm",
           payload
         );
         console.log("RESPONSE", response.data);
