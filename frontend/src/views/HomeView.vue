@@ -3,7 +3,7 @@
     <section class="hero">
       <div class="container hero-container">
         <div class="hero-content">
-          <h1 class="hero-title">SkinTopia</h1>
+          <h1 class="hero-title">Skintopia</h1>
           <p class="hero-subtitle">
             Welcome to Skintopia, where skincare recommendations meet
             simplicity.
