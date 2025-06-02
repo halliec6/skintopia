@@ -4,7 +4,7 @@
 Deciding what skincare product to purchase is extremely complicated. Customers are met with thousands of reviews and products in addition to paid content. Skintopia was created with the goal of simplifying skincare recommendations. Our machine learning model utilizes customer traits such as skin tone, skin type, and product history to generate customized product recommendations. The model was trained on Sephora product and review data.
 
 ## Website Link
-[Skintopia](https://halliec6.github.io/skintopia-test/)
+[Skintopia](https://halliec6.github.io/skintopia/)
 ## Getting started
 1. Clone the repository
 2. Install requirements `pip install -r requirements.txt`

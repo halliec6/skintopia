@@ -5,7 +5,7 @@
         <div class="logo">Skintopia</div>
         <div>
           <a
-            href="https://github.com/halliec6/skintopia-test"
+            href="https://github.com/halliec6/skintopia"
             target="_blank"
             rel="noopener"
             class="nav-link github-link"
