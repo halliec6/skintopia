@@ -172,10 +172,16 @@
       </div>
     </section>
 
-    <section class="recommendations" v-if="recommendations.length > 0">
+    <section class="recommendations">
       <div class="container">
         <h1 class="rec-title">Your Recommendations</h1>
-        <div class="rec-grid">
+        <div class="text-center 20px" v-if="recommendations.length == 0">
+          <p>
+            Please allow up to a minute after pressing submit for your
+            personalized recommnedations to load. Trust us, it's worth it.
+          </p>
+        </div>
+        <div class="rec-grid" v-if="recommendations.length > 0">
           <div
             class="rec-card"
             v-for="(item, index) in recommendations"
