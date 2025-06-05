@@ -206,6 +206,11 @@
       </div>
     </section>
   </div>
+  <v-footer color="#fff5eb">
+    <div class="cstm-footer">
+      <p>Made with <span>❤️</span> by Felicia Patel & Hallie Christopherson</p>
+    </div>
+  </v-footer>
 </template>
 
 <script lang="ts">
@@ -337,6 +342,16 @@ export default defineComponent({
 
 <style scoped lang="scss">
 @import "@/assets/styles/variables";
+
+.cstm-footer {
+  font-size: 14px;
+  color: $brown-theme;
+  font-weight: 300;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  text-align: center;
+  width: 100%;
+}
 
 .hero {
   background-color: $beige-theme;
