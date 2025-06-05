@@ -162,6 +162,9 @@
             </div>
           </div>
         </div>
+        <div class="text-center">
+          <p v-if="errorMsg">{{ errorMsg }}</p>
+        </div>
         <div class="form-controls">
           <button class="small-btn" @click="addProduct">+</button>
           <button class="small-btn" @click="submitForm">Submit</button>
@@ -230,6 +233,7 @@ export default defineComponent({
     const productNames = ref([]);
     const skinTone = ref("");
     const skinType = ref("");
+    const errorMsg = ref("");
     const product_category = ref<string[]>([]);
     const recommendations = ref([]);
     const skinTones = [
@@ -289,6 +293,19 @@ export default defineComponent({
     };
 
     const submitForm = async () => {
+      errorMsg.value = "";
+      const incompleteProduct = products.some(
+        (p) => !p.product_name || p.rating == null || p.rating == 0
+      );
+      if (
+        incompleteProduct ||
+        !skinTone.value ||
+        !skinType.value ||
+        product_category.value.length == 0
+      ) {
+        errorMsg.value = "Submission Error: Please fill out all questions.";
+        return;
+      }
       try {
         const payload = {
           user_id: "dummy_id", //temp known id
@@ -335,6 +352,7 @@ export default defineComponent({
       recommendations,
       skinTones,
       productCategories,
+      errorMsg,
     };
   },
 });
